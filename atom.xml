@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Notes by kaiyuncheng</title>
+  <icon>https://kaiyuncheng.github.io/icon.png</icon>
+  <subtitle>On the way of learning and coding</subtitle>
+  <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://kaiyuncheng.github.io/"/>
+  <updated>2023-12-09T17:18:08.554Z</updated>
+  <id>https://kaiyuncheng.github.io/</id>
+  
+  <author>
+    <name>KaiYun Cheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day5 集合 Set</title>
+    <link href="https://kaiyuncheng.github.io/2022/12/31/leetcodeDay5/"/>
+    <id>https://kaiyuncheng.github.io/2022/12/31/leetcodeDay5/</id>
+    <published>2022-12-31T08:56:41.000Z</published>
+    <updated>2023-12-09T17:18:08.554Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;集合-Set&quot;&gt;&lt;a href=&quot;#集合-Set&quot; class=&quot;headerlink&quot; title=&quot;集合 Set&quot;&gt;&lt;/a&gt;集合</summary>
+        
+      
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Set" scheme="https://kaiyuncheng.github.io/tags/Set/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day4 陣列 leetcode #905, #561</title>
+    <link href="https://kaiyuncheng.github.io/2022/12/29/leetcodeDay4/"/>
+    <id>https://kaiyuncheng.github.io/2022/12/29/leetcodeDay4/</id>
+    <published>2022-12-29T09:55:00.000Z</published>
+    <updated>2023-12-09T17:18:09.493Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Leetcode-陣列題型&quot;&gt;&lt;a href=&quot;#Leetcode-陣列題型&quot; class=&quot;headerlink&quot; title=&quot;Leetcode 陣列題型&quot;&gt;&lt;/a&gt;Leetcode 陣列題型&lt;/h2&gt;&lt;p&gt;這篇會跟著 Hannah 的鐵人賽刷的題目，會慢慢再更新其他題目。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Array" scheme="https://kaiyuncheng.github.io/tags/Array/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day3 陣列、簡易搜索、二分搜索、leetcode #1064</title>
+    <link href="https://kaiyuncheng.github.io/2022/12/27/leetcodeDay3/"/>
+    <id>https://kaiyuncheng.github.io/2022/12/27/leetcodeDay3/</id>
+    <published>2022-12-28T01:52:33.000Z</published>
+    <updated>2023-12-09T17:18:10.452Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;陣列&quot;&gt;&lt;a href=&quot;#陣列&quot; class=&quot;headerlink&quot; title=&quot;陣列&quot;&gt;&lt;/a&gt;陣列&lt;/h2&gt;&lt;p&gt;陣列應該是資料結構中對於寫javascript的人來說最友好的，js的陣列可以放入不同型別的資料(像是C/Java這樣的語言，陣列的大小和資料型別要先定義)，加上js有許多陣列方法，雖然蠻多是O(n^2)以上，但相對的寫法算很簡潔…&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Array" scheme="https://kaiyuncheng.github.io/tags/Array/"/>
+    
+    <category term="Binary Search" scheme="https://kaiyuncheng.github.io/tags/Binary-Search/"/>
+    
+    <category term="Sequential Search" scheme="https://kaiyuncheng.github.io/tags/Sequential-Search/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day2 學習目錄和原始型別</title>
+    <link href="https://kaiyuncheng.github.io/2022/12/27/leetcodeDay2/"/>
+    <id>https://kaiyuncheng.github.io/2022/12/27/leetcodeDay2/</id>
+    <published>2022-12-27T07:08:41.000Z</published>
+    <updated>2023-12-09T17:18:11.641Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;學習目錄&quot;&gt;&lt;a href=&quot;#學習目錄&quot; class=&quot;headerlink&quot; title=&quot;學習目錄&quot;&gt;&lt;/a&gt;學習目錄&lt;/h2&gt;&lt;p&gt;我的學習順序大致會分Data Structure和Algorithms兩個大項&lt;br&gt;另外搭配leetcode的題目。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="catalogue" scheme="https://kaiyuncheng.github.io/tags/catalogue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day1 演算法的好壞評量標準</title>
+    <link href="https://kaiyuncheng.github.io/2022/12/25/leetcodeDay1/"/>
+    <id>https://kaiyuncheng.github.io/2022/12/25/leetcodeDay1/</id>
+    <published>2022-12-25T06:49:35.000Z</published>
+    <updated>2023-12-09T17:18:06.209Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;這個系列主要是想自我挑戰30天用學資料結構和演算法。因為不是資訊本科生，對資料結構的理論一知半解，藉由筆記更加深印象。會搭配一個我很喜歡的前端工程師Hannah分享的鐵人賽文章，來做練習。這邊因為是我個人練習學習，順序或時間可能會跟Hannah的文章不一樣。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ithelp.ithome.com.tw/articles/10213184&quot;&gt;前端工程師用 javaScript 學演算法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://adrianmejia.com/categories/coding/data-structures-and-algorithms-dsa/&quot;&gt;Data Structures and Algorithms (DSA)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Time Complexity" scheme="https://kaiyuncheng.github.io/tags/Time-Complexity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JSDoc - 產生API說明文件</title>
+    <link href="https://kaiyuncheng.github.io/2021/11/12/JSDoc/"/>
+    <id>https://kaiyuncheng.github.io/2021/11/12/JSDoc/</id>
+    <published>2021-11-12T17:35:17.000Z</published>
+    <updated>2021-11-21T04:41:22.632Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;JSDoc&lt;br&gt;&lt;a href=&quot;https://jsdoc.app/&quot;&gt;https://jsdoc.app/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;用法&quot;&gt;&lt;a href=&quot;#用法&quot; class=&quot;headerlink&quot; title=&quot;用法&quot;&gt;&lt;/a&gt;用法&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;註解(comment) /**  */&lt;/li&gt;
+&lt;li&gt;標記(tags) @&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;型別註釋(type notation)&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;/** Repeat &amp;lt;b&amp;gt;AAA&amp;lt;/b&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt; * &lt;span class=&quot;doctag&quot;&gt;@namespace &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt; */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="jsdoc" scheme="https://kaiyuncheng.github.io/tags/jsdoc/"/>
+    
+    <category term="api" scheme="https://kaiyuncheng.github.io/tags/api/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Unicode 通用字元集</title>
+    <link href="https://kaiyuncheng.github.io/2021/09/21/unicode/"/>
+    <id>https://kaiyuncheng.github.io/2021/09/21/unicode/</id>
+    <published>2021-09-22T00:10:03.000Z</published>
+    <updated>2021-11-21T04:41:12.946Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;歷史&quot;&gt;&lt;a href=&quot;#歷史&quot; class=&quot;headerlink&quot; title=&quot;歷史&quot;&gt;&lt;/a&gt;歷史&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/Unicode&quot;&gt;https://zh.wikipedia.org/wiki/Unicode&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;8bits ASCII =&amp;gt; 0-127 共128字元&lt;br&gt;&lt;a href=&quot;https://unicode-table.com/cn/blocks/basic-latin/&quot;&gt;https://unicode-table.com/cn/blocks/basic-latin/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ISO 8859-1 國際標準化組織（ISO）及國際電工委員會（IEC）聯合制定 的字元 256字元&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="unicode" scheme="https://kaiyuncheng.github.io/tags/unicode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>衍生內建建構器的子類別 subclass</title>
+    <link href="https://kaiyuncheng.github.io/2021/09/10/subclass/"/>
+    <id>https://kaiyuncheng.github.io/2021/09/10/subclass/</id>
+    <published>2021-09-11T02:30:13.000Z</published>
+    <updated>2021-11-21T04:41:11.168Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;Subclassing-a-built-in-的兩個障礙&quot;&gt;&lt;a href=&quot;#Subclassing-a-built-in-的兩個障礙&quot; class=&quot;headerlink&quot; title=&quot;Subclassing a built-in 的兩個障礙:&quot;&gt;&lt;/a&gt;Subclassing a built-in 的兩個障礙:&lt;/h3&gt;&lt;h3 id=&quot;Obstacle-1-帶有內部特性的實體&quot;&gt;&lt;a href=&quot;#Obstacle-1-帶有內部特性的實體&quot; class=&quot;headerlink&quot; title=&quot;Obstacle 1 帶有內部特性的實體&quot;&gt;&lt;/a&gt;Obstacle 1 帶有內部特性的實體&lt;/h3&gt;&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Super&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y&lt;/span&gt;)&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;.x = x;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;.y = y;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Sub&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y ,z&lt;/span&gt;)&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; Super.call(&lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;, x, y);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;.z = z;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;內建建構器會忽略傳入傳入作為this的子實體&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="subclass" scheme="https://kaiyuncheng.github.io/tags/subclass/"/>
+    
+    <category term="constructor" scheme="https://kaiyuncheng.github.io/tags/constructor/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物件與繼承 -2</title>
+    <link href="https://kaiyuncheng.github.io/2021/06/29/object/"/>
+    <id>https://kaiyuncheng.github.io/2021/06/29/object/</id>
+    <published>2021-06-29T23:18:07.000Z</published>
+    <updated>2021-11-21T04:41:12.114Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;物件導向程式設計(OOP)分為層次有：&lt;br&gt;&lt;a href=&quot;#Layer-1%EF%BC%9A-%E5%96%AE%E4%B8%80%E7%89%A9%E4%BB%B6%E7%9A%84%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91OOP&quot;&gt;Layer 1： 單一物件的物件導向(OOP)&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#Layer-2%EF%BC%9A-%E7%89%A9%E4%BB%B6%E7%9A%84%E5%8E%9F%E5%9E%8B%E9%8D%8APrototype-chains&quot;&gt;Layer 2： 物件的原型鍊(Prototype chains)&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#Layer-3-%E5%BB%BA%E6%A7%8B%E5%99%A8Constructor%E4%BD%9C%E7%82%BA%E5%AF%A6%E9%AB%94%E7%9A%84%E5%B7%A5%E5%BB%A0&quot;&gt;Layer 3: 建構器(Constructor)作為實體的工廠&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#Layer-4-%E8%A1%8D%E7%94%9F%E5%AD%90%E9%A1%9E%E5%88%A5subclassing%E8%97%89%E7%94%B1%E7%B9%BC%E6%89%BF%E7%8F%BE%E6%9C%89%E5%BB%BA%E6%A7%8B%E5%99%A8%E4%BE%86%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%9A%84%E5%BB%BA%E6%A7%8B%E5%99%A8&quot;&gt;Layer 4: 衍生子類別(subclassing)藉由繼承現有建構器來建立新的建構器&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="object" scheme="https://kaiyuncheng.github.io/tags/object/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS] 關於 Operators 運算子</title>
+    <link href="https://kaiyuncheng.github.io/2021/04/10/operator/"/>
+    <id>https://kaiyuncheng.github.io/2021/04/10/operator/</id>
+    <published>2021-04-10T19:33:56.000Z</published>
+    <updated>2021-04-10T12:15:53.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;運算子-Operators&quot;&gt;&lt;a href=&quot;#運算子-Operators&quot; class=&quot;headerlink&quot; title=&quot;運算子 (Operators)&quot;&gt;&lt;/a&gt;運算子 (Operators)&lt;/h1&gt;&lt;p&gt;大部分的運算子只能搭配基本型別值使用，代表物件會先被強制轉型成基本型別，再進行運算。&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;, &lt;span class=&quot;number&quot;&gt;2&lt;/span&gt;] + [&lt;span class=&quot;number&quot;&gt;3&lt;/span&gt;] &lt;span class=&quot;comment&quot;&gt;// &amp;quot;1,23&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// String([1, 2]) + String([3])&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="operators" scheme="https://kaiyuncheng.github.io/tags/operators/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Functional JS] Currying 柯里化 &amp; Partial application</title>
+    <link href="https://kaiyuncheng.github.io/2020/12/25/currying/"/>
+    <id>https://kaiyuncheng.github.io/2020/12/25/currying/</id>
+    <published>2020-12-25T23:43:50.000Z</published>
+    <updated>2020-12-26T07:19:31.910Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近在前端面試中遇到的考題中出現了柯里化，一個會讓人出現很多問號的js高階用法，一直是我沒有很熟悉高階js、functional programming這一塊，因為不是資訊科系出身，深感還有好多不足(嘆…)，希望可以趕快補足。在研究了解柯里化，就會發現其中的好處，也可以應用在實際案例中。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    <category term="Functional JS" scheme="https://kaiyuncheng.github.io/categories/Javascript/Functional-JS/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="Functional Programming" scheme="https://kaiyuncheng.github.io/tags/Functional-Programming/"/>
+    
+    <category term="currying" scheme="https://kaiyuncheng.github.io/tags/currying/"/>
+    
+    <category term="Higher-order functions" scheme="https://kaiyuncheng.github.io/tags/Higher-order-functions/"/>
+    
+    <category term="Partial application" scheme="https://kaiyuncheng.github.io/tags/Partial-application/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Vue] Vue的生命週期 Lifecycle hooks</title>
+    <link href="https://kaiyuncheng.github.io/2020/12/20/vueLifecycle/"/>
+    <id>https://kaiyuncheng.github.io/2020/12/20/vueLifecycle/</id>
+    <published>2020-12-20T06:33:44.000Z</published>
+    <updated>2020-12-25T19:10:36.650Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;第一篇Vue的筆記記錄，就來釐清Vue頁面的…生老病死。讓我們想在它出生時就賦予它怎樣的能力還是死掉前叫它做什麼＠＠…就是任人擺布的人生啦！（誤）…&lt;br&gt;因為目前為Vue2到Vue3的過渡期，Vue3還沒有很普及主要的資訊是從官方文件，整理的資訊還是會以Vue2為主。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Vue" scheme="https://kaiyuncheng.github.io/categories/Vue/"/>
+    
+    
+    <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="vue2" scheme="https://kaiyuncheng.github.io/tags/vue2/"/>
+    
+    <category term="vue3" scheme="https://kaiyuncheng.github.io/tags/vue3/"/>
+    
+    <category term="Lifecycle" scheme="https://kaiyuncheng.github.io/tags/Lifecycle/"/>
+    
+    <category term="hooks" scheme="https://kaiyuncheng.github.io/tags/hooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Tools] 模組化打包 About Webpack</title>
+    <link href="https://kaiyuncheng.github.io/2020/12/12/webpack/"/>
+    <id>https://kaiyuncheng.github.io/2020/12/12/webpack/</id>
+    <published>2020-12-12T05:18:53.000Z</published>
+    <updated>2020-12-26T11:59:14.690Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;先前有介紹一篇關於gulp的用法，當中有比較gulp和webpack兩者之間的優缺點，若還沒看過可先看這一篇 &lt;a href=&quot;https://kaiyuncheng.github.io/2020/12/11/gulp/&quot;&gt;前端自動化管理 About Gulp 4.0&lt;/a&gt;，本篇的話會來整理webpack的觀念和基礎用法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tools" scheme="https://kaiyuncheng.github.io/categories/Tools/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="webpack" scheme="https://kaiyuncheng.github.io/tags/webpack/"/>
+    
+    <category term="tool" scheme="https://kaiyuncheng.github.io/tags/tool/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Tools] 前端自動化管理 About Gulp 4.0</title>
+    <link href="https://kaiyuncheng.github.io/2020/12/11/gulp/"/>
+    <id>https://kaiyuncheng.github.io/2020/12/11/gulp/</id>
+    <published>2020-12-11T20:45:13.000Z</published>
+    <updated>2020-12-26T11:59:20.010Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;接觸前端一段時間，很常聽到Gulp這個自動化管理工具，但一直沒仔細去了解它，這篇會整理Gulp的一些觀念和用法。&lt;/p&gt;
+&lt;h2 id=&quot;用Gulp要做什麼？&quot;&gt;&lt;a href=&quot;#用Gulp要做什麼？&quot; class=&quot;headerlink&quot; title=&quot;用Gulp要做什麼？&quot;&gt;&lt;/a&gt;用Gulp要做什麼？&lt;/h2&gt;&lt;p&gt;Gulp為一個自動化管理工具，把來源(src)編譯、合併(concat)、壓縮(uglify)、輸出(dest)成瀏覽器可以讀懂的或是效能更好的檔案。類似的工具還有Grunt和很熱門的Webpack。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Tools" scheme="https://kaiyuncheng.github.io/categories/Tools/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="gulp" scheme="https://kaiyuncheng.github.io/tags/gulp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS]關於解構賦值(Destructuring Assignment)</title>
+    <link href="https://kaiyuncheng.github.io/2020/12/10/destructuringAssignment/"/>
+    <id>https://kaiyuncheng.github.io/2020/12/10/destructuringAssignment/</id>
+    <published>2020-12-10T22:27:02.000Z</published>
+    <updated>2020-12-10T16:17:00.200Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;剛開始接觸JS的時候，常常會很困惑解構賦值的寫法，這篇會來整理關於解構賦值的用法來幫助釐清觀念。&lt;/p&gt;
+&lt;h2 id=&quot;解構賦值-Destructuring-assignment&quot;&gt;&lt;a href=&quot;#解構賦值-Destructuring-assignment&quot; class=&quot;headerlink&quot; title=&quot;解構賦值 (Destructuring assignment)&quot;&gt;&lt;/a&gt;解構賦值 (Destructuring assignment)&lt;/h2&gt;&lt;p&gt;解構賦值 (Destructuring assignment) 語法是一種 JavaScript ES6的 運算式，可以把&lt;strong&gt;陣列&lt;/strong&gt;或&lt;strong&gt;物件&lt;/strong&gt;中的資料提取出來成為獨立變數。新語法讓程式變得簡短提高閱讀性。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
+    
+    <category term="Destructuring Assignment" scheme="https://kaiyuncheng.github.io/tags/Destructuring-Assignment/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS] localStorage 怎麼用？和Cookie、Session Storage差在哪？</title>
+    <link href="https://kaiyuncheng.github.io/2020/12/02/localStorage/"/>
+    <id>https://kaiyuncheng.github.io/2020/12/02/localStorage/</id>
+    <published>2020-12-03T03:54:46.000Z</published>
+    <updated>2020-12-02T18:11:30.510Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;localStorage在許多網站上很常會應用到，這篇會來整理localStorage的用法，另外會比較Cookie和Session Storage。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="Local Storage" scheme="https://kaiyuncheng.github.io/tags/Local-Storage/"/>
+    
+    <category term="Session Storage" scheme="https://kaiyuncheng.github.io/tags/Session-Storage/"/>
+    
+    <category term="Cookie" scheme="https://kaiyuncheng.github.io/tags/Cookie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS 60 Days] Day 47 to Day 60 - AJAX Post和Get</title>
+    <link href="https://kaiyuncheng.github.io/2020/11/26/js60Day47toDay60/"/>
+    <id>https://kaiyuncheng.github.io/2020/11/26/js60Day47toDay60/</id>
+    <published>2020-11-26T05:31:07.000Z</published>
+    <updated>2020-12-03T08:11:15.360Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#Day47&quot;&gt;Day 47 - AJAX POST&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day48&quot;&gt;Day 48 - AJAX POST 小練習&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day49&quot;&gt;Day 49 - 旅館訂房網&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day50&quot;&gt;Day 50 - 旅館訂房網&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day51&quot;&gt;Day 51 - 頁面傳遞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day52&quot;&gt;Day 52 - 頁面傳遞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day53&quot;&gt;Day 53 - 頁面傳遞&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day54&quot;&gt;Day 54 - POST API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day55&quot;&gt;Day 55 - 簡單預約列表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day56&quot;&gt;Day 56 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day57&quot;&gt;Day 57 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day58&quot;&gt;Day 58 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day59&quot;&gt;Day 59 - 提交作品&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#Day60&quot;&gt;Day 60 - 提交作品&lt;/a&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
+    
+    <category term="ajax" scheme="https://kaiyuncheng.github.io/tags/ajax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS] 關於window.location類別功能：轉址、取得網址參數</title>
+    <link href="https://kaiyuncheng.github.io/2020/11/25/windowLocation/"/>
+    <id>https://kaiyuncheng.github.io/2020/11/25/windowLocation/</id>
+    <published>2020-11-25T20:03:23.000Z</published>
+    <updated>2020-11-25T16:29:42.500Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;關於&quot;&gt;&lt;a href=&quot;#關於&quot; class=&quot;headerlink&quot; title=&quot;關於&quot;&gt;&lt;/a&gt;關於&lt;/h2&gt;&lt;p&gt;這篇主要會整理 視窗轉址、取得網址屬性參數等等用法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="window.location" scheme="https://kaiyuncheng.github.io/tags/window-location/"/>
+    
+    <category term="url" scheme="https://kaiyuncheng.github.io/tags/url/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS] 關於時間 new Date()</title>
+    <link href="https://kaiyuncheng.github.io/2020/11/24/newDate/"/>
+    <id>https://kaiyuncheng.github.io/2020/11/24/newDate/</id>
+    <published>2020-11-24T13:15:32.000Z</published>
+    <updated>2020-12-11T10:37:53.120Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;關於時間&quot;&gt;&lt;a href=&quot;#關於時間&quot; class=&quot;headerlink&quot; title=&quot;關於時間&quot;&gt;&lt;/a&gt;關於時間&lt;/h2&gt;&lt;p&gt;在JavaScript中取得時間，可用new Date()，它是一個JS內建的一個Constructor，內容可以帶入參數來取得特定時間，不帶入參數則取得現在時間。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="date" scheme="https://kaiyuncheng.github.io/tags/date/"/>
+    
+    <category term="time" scheme="https://kaiyuncheng.github.io/tags/time/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS] 物件導向: 原型Prototype與物件Object</title>
+    <link href="https://kaiyuncheng.github.io/2020/11/19/prototype/"/>
+    <id>https://kaiyuncheng.github.io/2020/11/19/prototype/</id>
+    <published>2020-11-19T10:46:05.000Z</published>
+    <updated>2020-12-10T20:25:55.980Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;這篇會來整理關於JS原型、類別、物件導向、原型鍊、繼承、建構子等。這幾個關聯又有點難懂的關鍵字，在學JS時時常聽到，一開始只是去使用JS、Vue到現在去了解他背後運作的原理，才恍然大悟原是這樣啊！&lt;/p&gt;
+&lt;h2 id=&quot;Javascript&quot;&gt;&lt;a href=&quot;#Javascript&quot; class=&quot;headerlink&quot; title=&quot;Javascript&quot;&gt;&lt;/a&gt;Javascript&lt;/h2&gt;&lt;p&gt;JavaScript 是一個以原型為基礎 (Prototype-based)、多範型的、動態語言。支援物件導向(Object-oriented programming, OOP)、指令式以及宣告式 (如函數式程式設計)。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="Inheritance" scheme="https://kaiyuncheng.github.io/tags/Inheritance/"/>
+    
+    <category term="Prototype Chain" scheme="https://kaiyuncheng.github.io/tags/Prototype-Chain/"/>
+    
+    <category term="Prototype" scheme="https://kaiyuncheng.github.io/tags/Prototype/"/>
+    
+    <category term="OOP" scheme="https://kaiyuncheng.github.io/tags/OOP/"/>
+    
+    <category term="Class" scheme="https://kaiyuncheng.github.io/tags/Class/"/>
+    
+    <category term="Object" scheme="https://kaiyuncheng.github.io/tags/Object/"/>
+    
+  </entry>
+  
+</feed>
