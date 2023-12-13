@@ -160,7 +160,7 @@
     <link href="https://kaiyuncheng.github.io/portfolio/index.html"/>
     <id>https://kaiyuncheng.github.io/portfolio/index.html</id>
     <published>2022-11-30T05:00:00.000Z</published>
-    <updated>2023-12-13T21:20:22.286Z</updated>
+    <updated>2023-12-13T21:21:03.872Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;箭頭函式(Arrow Functions)是一個ES6的新語法，對我來說前前後後接觸js，一直有碰到this，但要詳細解釋還是很難，因此想藉由這篇讓我更加深this的觀念，會整理出this在箭頭函式的差別與其他this的觀念。另外感謝Kuro大的文章，讓我更容易了解this，分享連結在下面。&lt;/p&gt;
@@ -346,9 +346,9 @@
     <category term="Functional JS" scheme="https://kaiyuncheng.github.io/categories/Javascript/Functional-JS/"/>
     
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="Functional Programming" scheme="https://kaiyuncheng.github.io/tags/Functional-Programming/"/>
     
@@ -375,11 +375,11 @@
     <category term="Vue" scheme="https://kaiyuncheng.github.io/categories/Vue/"/>
     
     
-    <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
     
     <category term="vue2" scheme="https://kaiyuncheng.github.io/tags/vue2/"/>
     
@@ -452,9 +452,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
@@ -477,9 +477,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="Local Storage" scheme="https://kaiyuncheng.github.io/tags/Local-Storage/"/>
     
@@ -518,9 +518,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
@@ -543,9 +543,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="window.location" scheme="https://kaiyuncheng.github.io/tags/window-location/"/>
     
@@ -568,9 +568,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="date" scheme="https://kaiyuncheng.github.io/tags/date/"/>
     
