@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2023-12-13T19:55:32.118Z</updated>
+  <updated>2023-12-13T20:04:11.169Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kaiyuncheng.github.io/2023/12/12/portfolio/"/>
     <id>https://kaiyuncheng.github.io/2023/12/12/portfolio/</id>
     <published>2023-12-13T01:15:59.000Z</published>
-    <updated>2023-12-13T19:55:32.118Z</updated>
+    <updated>2023-12-13T20:04:11.169Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;箭頭函式(Arrow Functions)是一個ES6的新語法，對我來說前前後後接觸js，一直有碰到this，但要詳細解釋還是很難，因此想藉由這篇讓我更加深this的觀念，會整理出this在箭頭函式的差別與其他this的觀念。另外感謝Kuro大的文章，讓我更容易了解this，分享連結在下面。&lt;/p&gt;
@@ -36,42 +36,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;引用文本 Blockquotes&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="this" scheme="https://kaiyuncheng.github.io/tags/this/"/>
-    
-    <category term="Arrow Functions" scheme="https://kaiyuncheng.github.io/tags/Arrow-Functions/"/>
-    
-    <category term="es6" scheme="https://kaiyuncheng.github.io/tags/es6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>1222</title>
-    <link href="https://kaiyuncheng.github.io/2023/11/17/123/"/>
-    <id>https://kaiyuncheng.github.io/2023/11/17/123/</id>
-    <published>2023-11-18T01:15:59.000Z</published>
-    <updated>2023-12-13T20:01:02.324Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;微信公众号排版工具。问题或建议，请公众号留言。**&lt;a href=&quot;#jump_8&quot;&gt;程序员翻身&lt;/a&gt;**&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;建议使用 &lt;strong&gt;Chrome&lt;/strong&gt;</summary>
-        
-      
     
     
     
@@ -568,6 +532,31 @@
     <category term="window.location" scheme="https://kaiyuncheng.github.io/tags/window-location/"/>
     
     <category term="url" scheme="https://kaiyuncheng.github.io/tags/url/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[JS] 關於時間 new Date()</title>
+    <link href="https://kaiyuncheng.github.io/2020/11/24/newDate/"/>
+    <id>https://kaiyuncheng.github.io/2020/11/24/newDate/</id>
+    <published>2020-11-24T13:15:32.000Z</published>
+    <updated>2020-12-11T10:37:53.120Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;關於時間&quot;&gt;&lt;a href=&quot;#關於時間&quot; class=&quot;headerlink&quot; title=&quot;關於時間&quot;&gt;&lt;/a&gt;關於時間&lt;/h2&gt;&lt;p&gt;在JavaScript中取得時間，可用new Date()，它是一個JS內建的一個Constructor，內容可以帶入參數來取得特定時間，不帶入參數則取得現在時間。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
+    
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="date" scheme="https://kaiyuncheng.github.io/tags/date/"/>
+    
+    <category term="time" scheme="https://kaiyuncheng.github.io/tags/time/"/>
     
   </entry>
   
