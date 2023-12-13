@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2023-12-09T18:41:02.702Z</updated>
+  <updated>2023-12-13T04:35:39.788Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Portfolio</title>
+    <link href="https://kaiyuncheng.github.io/2023/12/12/portfolio/"/>
+    <id>https://kaiyuncheng.github.io/2023/12/12/portfolio/</id>
+    <published>2023-12-13T01:15:59.000Z</published>
+    <updated>2023-12-13T04:35:39.788Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;箭頭函式(Arrow Functions)是一個ES6的新語法，對我來說前前後後接觸js，一直有碰到this，但要詳細解釋還是很難，因此想藉由這篇讓我更加深this的觀念，會整理出this在箭頭函式的差別與其他this的觀念。另外感謝Kuro大的文章，讓我更容易了解this，分享連結在下面。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Portfolio" scheme="https://kaiyuncheng.github.io/categories/Portfolio/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>[用JS來寫演算法和了解資料結構] Day5 集合 Set</title>
@@ -519,40 +538,6 @@
     <category term="date" scheme="https://kaiyuncheng.github.io/tags/date/"/>
     
     <category term="time" scheme="https://kaiyuncheng.github.io/tags/time/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS] 物件導向: 原型Prototype與物件Object</title>
-    <link href="https://kaiyuncheng.github.io/2020/11/19/prototype/"/>
-    <id>https://kaiyuncheng.github.io/2020/11/19/prototype/</id>
-    <published>2020-11-19T10:46:05.000Z</published>
-    <updated>2020-12-10T20:25:55.980Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;這篇會來整理關於JS原型、類別、物件導向、原型鍊、繼承、建構子等。這幾個關聯又有點難懂的關鍵字，在學JS時時常聽到，一開始只是去使用JS、Vue到現在去了解他背後運作的原理，才恍然大悟原是這樣啊！&lt;/p&gt;
-&lt;h2 id=&quot;Javascript&quot;&gt;&lt;a href=&quot;#Javascript&quot; class=&quot;headerlink&quot; title=&quot;Javascript&quot;&gt;&lt;/a&gt;Javascript&lt;/h2&gt;&lt;p&gt;JavaScript 是一個以原型為基礎 (Prototype-based)、多範型的、動態語言。支援物件導向(Object-oriented programming, OOP)、指令式以及宣告式 (如函數式程式設計)。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="Inheritance" scheme="https://kaiyuncheng.github.io/tags/Inheritance/"/>
-    
-    <category term="Prototype Chain" scheme="https://kaiyuncheng.github.io/tags/Prototype-Chain/"/>
-    
-    <category term="Prototype" scheme="https://kaiyuncheng.github.io/tags/Prototype/"/>
-    
-    <category term="OOP" scheme="https://kaiyuncheng.github.io/tags/OOP/"/>
-    
-    <category term="Class" scheme="https://kaiyuncheng.github.io/tags/Class/"/>
-    
-    <category term="Object" scheme="https://kaiyuncheng.github.io/tags/Object/"/>
     
   </entry>
   
