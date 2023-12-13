@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2023-12-13T04:35:39.788Z</updated>
+  <updated>2023-12-13T05:18:16.157Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -17,21 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Portfolio</title>
-    <link href="https://kaiyuncheng.github.io/2023/12/12/portfolio/"/>
-    <id>https://kaiyuncheng.github.io/2023/12/12/portfolio/</id>
+    <title>portfolio</title>
+    <link href="https://kaiyuncheng.github.io/https:/kaiyuncheng.github.io/portfolio/"/>
+    <id>https://kaiyuncheng.github.io/https:/kaiyuncheng.github.io/portfolio/</id>
     <published>2023-12-13T01:15:59.000Z</published>
-    <updated>2023-12-13T04:35:39.788Z</updated>
+    <updated>2023-12-13T05:18:16.157Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;箭頭函式(Arrow Functions)是一個ES6的新語法，對我來說前前後後接觸js，一直有碰到this，但要詳細解釋還是很難，因此想藉由這篇讓我更加深this的觀念，會整理出this在箭頭函式的差別與其他this的觀念。另外感謝Kuro大的文章，讓我更容易了解this，分享連結在下面。&lt;/p&gt;</summary>
     
     
     
-    <category term="Portfolio" scheme="https://kaiyuncheng.github.io/categories/Portfolio/"/>
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="this" scheme="https://kaiyuncheng.github.io/tags/this/"/>
+    
+    <category term="Arrow Functions" scheme="https://kaiyuncheng.github.io/tags/Arrow-Functions/"/>
+    
+    <category term="es6" scheme="https://kaiyuncheng.github.io/tags/es6/"/>
     
   </entry>
   
@@ -309,9 +317,9 @@
     <category term="Functional JS" scheme="https://kaiyuncheng.github.io/categories/Javascript/Functional-JS/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="Functional Programming" scheme="https://kaiyuncheng.github.io/tags/Functional-Programming/"/>
     
@@ -338,11 +346,11 @@
     <category term="Vue" scheme="https://kaiyuncheng.github.io/categories/Vue/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
     
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
-    <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="vue2" scheme="https://kaiyuncheng.github.io/tags/vue2/"/>
     
@@ -415,9 +423,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
@@ -440,9 +448,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="Local Storage" scheme="https://kaiyuncheng.github.io/tags/Local-Storage/"/>
     
@@ -481,9 +489,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
@@ -506,9 +514,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="window.location" scheme="https://kaiyuncheng.github.io/tags/window-location/"/>
     
@@ -531,9 +539,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="date" scheme="https://kaiyuncheng.github.io/tags/date/"/>
     
