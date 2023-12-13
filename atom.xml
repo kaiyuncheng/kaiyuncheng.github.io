@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2023-12-13T05:18:16.157Z</updated>
+  <updated>2023-12-13T05:32:31.020Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -21,10 +21,13 @@
     <link href="https://kaiyuncheng.github.io/https:/kaiyuncheng.github.io/portfolio/"/>
     <id>https://kaiyuncheng.github.io/https:/kaiyuncheng.github.io/portfolio/</id>
     <published>2023-12-13T01:15:59.000Z</published>
-    <updated>2023-12-13T05:18:16.157Z</updated>
+    <updated>2023-12-13T05:32:31.020Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;箭頭函式(Arrow Functions)是一個ES6的新語法，對我來說前前後後接觸js，一直有碰到this，但要詳細解釋還是很難，因此想藉由這篇讓我更加深this的觀念，會整理出this在箭頭函式的差別與其他this的觀念。另外感謝Kuro大的文章，讓我更容易了解this，分享連結在下面。&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;箭頭函式(Arrow Functions)是一個ES6的新語法，對我來說前前後後接觸js，一直有碰到this，但要詳細解釋還是很難，因此想藉由這篇讓我更加深this的觀念，會整理出this在箭頭函式的差別與其他this的觀念。另外感謝Kuro大的文章，讓我更容易了解this，分享連結在下面。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;引用文本 Blockquotes&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
     
     
     
