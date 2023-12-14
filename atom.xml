@@ -156,51 +156,20 @@
   </entry>
   
   <entry>
-    <title>My PORTFOLIO</title>
+    <title>Projects</title>
     <link href="https://kaiyuncheng.github.io/portfolio/index.html"/>
     <id>https://kaiyuncheng.github.io/portfolio/index.html</id>
     <published>2022-11-30T05:00:00.000Z</published>
-    <updated>2023-12-14T01:49:10.128Z</updated>
+    <updated>2023-12-14T04:55:18.513Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;箭頭函式(Arrow Functions)是一個ES6的新語法，對我來說前前後後接觸js，一直有碰到this，但要詳細解釋還是很難，因此想藉由這篇讓我更加深this的觀念，會整理出this在箭頭函式的差別與其他this的觀念。另外感謝Kuro大的文章，讓我更容易了解this，分享連結在下面。&lt;/p&gt;
-&lt;p&gt;有标题的消息块(“title:有标题的消息块”)。&lt;/p&gt;
-&lt;article class=&quot;message message-immersive is-warning&quot;&gt;
-  &lt;div class=&quot;message-body&quot;&gt;
-    &lt;i class=&quot;fas fa-question-circle mr-2&quot;&gt;&lt;/i&gt;文章内容有误？请点击 
-    &lt;a href=&quot;你自己接收反馈的URL&quot;&gt;此处&lt;/a&gt;提交修改。
-  &lt;/div&gt;
-&lt;/article&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;引用文本 Blockquotes&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;example-tab-container&quot;&gt;
-  &lt;div class=&quot;tabs my-3&quot;&gt;
-        &lt;ul class=&quot;mx-0 my-0&quot;&gt;
-            &lt;li class=&quot;is-active&quot;&gt;
-                &lt;a href=&quot;#tab_icon_1&quot;&gt;
-                  &lt;span class=&quot;icon is-small ml-0&quot;&gt;
-                    &lt;i class=&quot;fa-brands fa-github&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-                  &lt;/span&gt;GitHub
-                &lt;/a&gt;
-            &lt;/li&gt;
-            &lt;li&gt;
-                &lt;a href=&quot;#tab_icon_2&quot;&gt;
-                  &lt;span class=&quot;icon is-small ml-0&quot;&gt;
-                    &lt;i class=&quot;fa-brands fa-node-js&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
-                  &lt;/span&gt;Node.js
-                &lt;/a&gt;
-            &lt;/li&gt;
-        &lt;/ul&gt;
-  &lt;/div&gt;
-    &lt;div id=&quot;tab_icon_1&quot; class=&quot;tab-content&quot;&gt;
-        &lt;p&gt;这个标签页的图标(&lt;code&gt;icon&lt;/code&gt;)为&lt;code&gt;&quot;icon:fa-brands fa-github&quot;&lt;/code&gt;。&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;tab_icon_2&quot; class=&quot;tab-content is-hidden&quot;&gt;
-          &lt;p&gt;这个标签页的图标(&lt;code&gt;icon&lt;/code&gt;)为&lt;code&gt;&quot;icon:fa-brands fa-node-js&quot;&lt;/code&gt;。&lt;/p&gt;\
-    &lt;/div&gt;
-&lt;/div&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Capture-Studio&quot;&gt;&lt;a href=&quot;#Capture-Studio&quot; class=&quot;headerlink&quot; title=&quot;Capture Studio&quot;&gt;&lt;/a&gt;Capture Studio&lt;/h2&gt;&lt;h4</summary>
+        
+      
     
     
     
