@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2024-01-03T16:15:25.058Z</updated>
+  <updated>2024-01-03T23:30:33.901Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Typescript Note 2 - OOP / class / interface</title>
+    <link href="https://kaiyuncheng.github.io/2024/01/03/Typescript_02/"/>
+    <id>https://kaiyuncheng.github.io/2024/01/03/Typescript_02/</id>
+    <published>2024-01-03T14:05:12.000Z</published>
+    <updated>2024-01-03T23:30:33.901Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;物件導向-OOP-class-設計圖&quot;&gt;&lt;a href=&quot;#物件導向-OOP-class-設計圖&quot; class=&quot;headerlink&quot; title=&quot;物件導向 OOP / class 設計圖&quot;&gt;&lt;/a&gt;物件導向 OOP / class 設計圖&lt;/h2&gt;&lt;p&gt;在物件導向的架構中，每個物件都具有接收訊息，處理資料以及發送訊息給其他物件的能力。&lt;/p&gt;
+&lt;p&gt;一個簡易的會員資料集&lt;br&gt;// 屬性：&lt;br&gt;// - name&lt;br&gt;// - age&lt;br&gt;// - address&lt;br&gt;// 功能：&lt;br&gt;// - 新增資料&lt;br&gt;// - 更新資料&lt;br&gt;// - 刪除資料&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Typescript" scheme="https://kaiyuncheng.github.io/categories/Typescript/"/>
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/tags/Javascript/"/>
+    
+    <category term="Typescript" scheme="https://kaiyuncheng.github.io/tags/Typescript/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Typescript Note - 安裝 / 型別 / 用法</title>
     <link href="https://kaiyuncheng.github.io/2024/01/02/Typescript_01/"/>
     <id>https://kaiyuncheng.github.io/2024/01/02/Typescript_01/</id>
     <published>2024-01-02T17:45:17.000Z</published>
-    <updated>2024-01-03T16:15:25.058Z</updated>
+    <updated>2024-01-03T20:14:53.199Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Typescript-編譯安裝指令&quot;&gt;&lt;a href=&quot;#Typescript-編譯安裝指令&quot; class=&quot;headerlink&quot; title=&quot;Typescript 編譯安裝指令&quot;&gt;&lt;/a&gt;Typescript 編譯安裝指令&lt;/h2&gt;&lt;ol&gt;
@@ -212,89 +234,6 @@
     <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
     
     <category term="Time Complexity" scheme="https://kaiyuncheng.github.io/tags/Time-Complexity/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://kaiyuncheng.github.io/portfolio/index.html"/>
-    <id>https://kaiyuncheng.github.io/portfolio/index.html</id>
-    <published>2022-11-30T05:00:00.000Z</published>
-    <updated>2023-12-16T06:32:45.206Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;card widget&quot;&gt;
-  &lt;div class=&quot;card-content&quot;&gt;
-    &lt;nav class=&quot;level&quot;&gt;
-        &lt;div class=&quot;level-item has-text-centered flex-shrink-1&quot; style=&quot;flex-grow: 0;&quot; &gt;
-            &lt;div&gt;
-              &lt;img class=&quot;avatar&quot; style=&quot;height: 50px; width: 50px; border-radius: 290486px;&quot; src=&quot;/gallery/images/kai_img.jpg&quot;&gt;
-            &lt;/div&gt;
-            &lt;div style=&quot;margin-left: 10px; display:flex; flex-direction: column;&quot;&gt;
-                &lt;p class=&quot;title is-size-4&quot; style=&quot;margin-bottom: 2px;&quot;&gt;
-                KaiYun Cheng
-                &lt;/p&gt;
-                &lt;p class=&quot;is-size-6 is-flex justify-content-center&quot;&gt;
-                  &lt;i class=&quot;fas fa-map-marker-alt mr-1&quot;&gt;&lt;/i&gt;
-                  &lt;span&gt;Greater Boston, MA&lt;/span&gt;
-                &lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;level is-mobile&quot;&gt;
-            &lt;a class=&quot;level-item button is-transparent is-marginless&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Email&quot; href=&quot;mailto:tanyacheng@gmail.com&quot;&gt;&lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&quot;level-item button is-transparent is-marginless&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Github&quot; href=&quot;https://github.com/kaiyuncheng&quot;&gt;&lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&quot;level-item button is-transparent is-marginless&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Resume&quot; href=&quot;https://kaiyuncheng.github.io/file/kaiyuncheng_resume_2023.pdf&quot;&gt;&lt;i class=&quot;fas fa-file-download&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-            &lt;a class=&quot;level-item button is-transparent is-marginless&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Linkedin&quot; href=&quot;https://www.linkedin.com/in/kaiyuncheng/&quot;&gt;&lt;i class=&quot;fab fa-linkedin&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&quot;level-item button is-transparent is-marginless&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Instagram&quot; href=&quot;https://www.instagram.com/kaiyunxcheng&quot;&gt;&lt;i class=&quot;fab fa-instagram&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&quot;level-item button is-transparent is-marginless&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;RSS&quot; href=&quot;https://follow.it/kaiyuncheng?leanpub&quot;&gt;&lt;i class=&quot;fas fa-rss&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-         &lt;/div&gt;
-          &lt;/nav&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-
-&lt;h1 id=&quot;Projects&quot;&gt;&lt;a href=&quot;#Projects&quot; class=&quot;headerlink&quot; title=&quot;Projects&quot;&gt;&lt;/a&gt;Projects&lt;/h1&gt;&lt;hr&gt;
-&lt;h2 id=&quot;The-Better-Aging-Website&quot;&gt;&lt;a href=&quot;#The-Better-Aging-Website&quot; class=&quot;headerlink&quot; title=&quot;The Better Aging Website&quot;&gt;&lt;/a&gt;&lt;strong&gt;The Better Aging Website&lt;/strong&gt;&lt;/h2&gt;&lt;h5 id=&quot;Articles-Website&quot;&gt;&lt;a href=&quot;#Articles-Website&quot; class=&quot;headerlink&quot; title=&quot;Articles Website&quot;&gt;&lt;/a&gt;Articles Website&lt;/h5&gt;&lt;article class=&quot;message message-immersive is-primary is-medium&quot;&gt;
-  &lt;div class=&quot;message-body&quot;&gt;
-   &lt;i class=&quot;fas fa-link mr-1&quot;&gt;&lt;/i&gt;
-    &lt;a href=&quot;https://thebetteraging.businesstoday.com.tw/&quot; target=&quot;_blank&quot; class=&quot;mr-3&quot;&gt;Live Demo&lt;/a&gt;
-    &lt;i class=&quot;fab fa-github mr-1&quot;&gt;&lt;/i&gt;
-    &lt;a href=&quot;https://github.com/kaiyuncheng/age_next_layout&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gallery/portfolio/thebetteraging.jpg&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h3&gt;&lt;p&gt;The Better Aging Website is a news platform dedicated to middle-aged and elderly readers. I played a key role in redesigning the layout and implementing front-end programming using the Next.js framework. The website boasts an array of features, including a homepage carousel, a popular articles section, author-specific pages, and dedicated sections for video content and podcasts. These enhancements contribute to a more dynamic and engaging user experience, offering a diverse range of content formats to cater to the preferences of our audience.&lt;/p&gt;
-&lt;h3 id=&quot;Technologies-Used&quot;&gt;&lt;a href=&quot;#Technologies-Used&quot; class=&quot;headerlink&quot; title=&quot;Technologies Used&quot;&gt;&lt;/a&gt;Technologies Used&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Next.js&lt;/li&gt;
-&lt;li&gt;RESTful API&lt;/li&gt;
-&lt;li&gt;Tailwind CSS&lt;/li&gt;
-&lt;li&gt;Responsive Web Design&lt;/li&gt;
-&lt;li&gt;Integration of Google Tag&lt;/li&gt;
-&lt;li&gt;Google SEO&lt;/li&gt;
-&lt;li&gt;Git Version Control&lt;/li&gt;
-&lt;li&gt;Server-Side Rendering&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;Capture-Studio&quot;&gt;&lt;a href=&quot;#Capture-Studio&quot; class=&quot;headerlink&quot; title=&quot;Capture Studio&quot;&gt;&lt;/a&gt;&lt;strong&gt;Capture Studio&lt;/strong&gt;&lt;/h2&gt;&lt;h5 id=&quot;Photography-Service-E-commerce-Website&quot;&gt;&lt;a href=&quot;#Photography-Service-E-commerce-Website&quot; class=&quot;headerlink&quot; title=&quot;Photography Service E-commerce Website&quot;&gt;&lt;/a&gt;Photography Service E-commerce Website&lt;/h5&gt;&lt;article class=&quot;message message-immersive is-primary is-medium&quot;&gt;
-  &lt;div class=&quot;message-body&quot;&gt;
-   &lt;i class=&quot;fas fa-link mr-1&quot;&gt;&lt;/i&gt;
-    &lt;a href=&quot;https://kaiyuncheng.github.io/capturestudio/#/&quot; target=&quot;_blank&quot; class=&quot;mr-3&quot;&gt;Live Demo&lt;/a&gt;
-    &lt;i class=&quot;fab fa-github mr-1&quot;&gt;&lt;/i&gt;
-    &lt;a href=&quot;https://github.com/kaiyuncheng/capturestudio/tree/master&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/article&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gallery/portfolio/capture.jpg&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Overview-1&quot;&gt;&lt;a href=&quot;#Overview-1&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h3&gt;&lt;p&gt;Capture Studio is an e-commerce website using Vue.js. I started this side project from scratch, which involved designing the layout, creating wireframes, and programming. The website features include showcasing photography services/products, client albums, a shopping cart, and a checkout system. On the backend platform, functionalities include login authentication, management of services/products for listing and publishing, coupon management, order management, and image management.&lt;/p&gt;
-&lt;h3 id=&quot;Technologies-Used-1&quot;&gt;&lt;a href=&quot;#Technologies-Used-1&quot; class=&quot;headerlink&quot; title=&quot;Technologies Used&quot;&gt;&lt;/a&gt;Technologies Used&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Vue.js / Vue Router / Vue Cli&lt;/li&gt;
-&lt;li&gt;ESLint with the Airbnb syntax standards&lt;/li&gt;
-&lt;li&gt;RESTful API&lt;/li&gt;
-&lt;li&gt;Bootstrap&lt;/li&gt;
-&lt;li&gt;Responsive Web Design&lt;/li&gt;
-&lt;li&gt;SCSS&lt;/li&gt;
-&lt;li&gt;Git Version Control&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
     
   </entry>
   
