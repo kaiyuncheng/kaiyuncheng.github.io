@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2023-12-09T18:41:02.702Z</updated>
+  <updated>2024-01-03T15:09:35.691Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Typescript Note - 安裝 / 型別 / 用法</title>
+    <link href="https://kaiyuncheng.github.io/2024/01/02/Typescript_01/"/>
+    <id>https://kaiyuncheng.github.io/2024/01/02/Typescript_01/</id>
+    <published>2024-01-02T17:45:17.000Z</published>
+    <updated>2024-01-03T15:09:35.691Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Typescript-編譯安裝指令&quot;&gt;&lt;a href=&quot;#Typescript-編譯安裝指令&quot; class=&quot;headerlink&quot; title=&quot;Typescript 編譯安裝指令&quot;&gt;&lt;/a&gt;Typescript 編譯安裝指令&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;全域安裝Typescript&lt;code&gt;npm install -g typescript&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;專案資料夾 初始化 &lt;code&gt;tsc --init&lt;/code&gt; 生成 tsconfig.json 配置檔&lt;/li&gt;
+&lt;li&gt;Typescript compiler &lt;code&gt;tsc hello.ts&lt;/code&gt; tsc 檔案名稱&lt;/li&gt;
+&lt;li&gt;live watch &lt;code&gt;tsc --watch&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;查看Typescript版本 &lt;code&gt;tsc -v&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="Typescript" scheme="https://kaiyuncheng.github.io/categories/Typescript/"/>
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/tags/Javascript/"/>
+    
+    <category term="Typescript" scheme="https://kaiyuncheng.github.io/tags/Typescript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day10 動態規劃 Dynamic programming / Fibonacci numbers</title>
+    <link href="https://kaiyuncheng.github.io/2023/12/19/leetcodeDay10/"/>
+    <id>https://kaiyuncheng.github.io/2023/12/19/leetcodeDay10/</id>
+    <published>2023-12-19T08:56:41.000Z</published>
+    <updated>2023-12-19T17:54:41.214Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;動態規劃-Dynamic-programming&quot;&gt;&lt;a href=&quot;#動態規劃-Dynamic-programming&quot; class=&quot;headerlink&quot; title=&quot;動態規劃 Dynamic programming&quot;&gt;&lt;/a&gt;動態規劃 Dynamic</summary>
+        
+      
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Dynamic programming" scheme="https://kaiyuncheng.github.io/tags/Dynamic-programming/"/>
+    
+    <category term="Fibonacci numbers" scheme="https://kaiyuncheng.github.io/tags/Fibonacci-numbers/"/>
+    
+  </entry>
   
   <entry>
     <title>[用JS來寫演算法和了解資料結構] Day5 集合 Set</title>
@@ -106,7 +166,7 @@
     <link href="https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/"/>
     <id>https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/</id>
     <published>2023-09-27T06:08:41.000Z</published>
-    <updated>2023-12-09T18:40:52.493Z</updated>
+    <updated>2023-12-19T17:54:22.937Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;學習目錄&quot;&gt;&lt;a href=&quot;#學習目錄&quot; class=&quot;headerlink&quot; title=&quot;學習目錄&quot;&gt;&lt;/a&gt;學習目錄&lt;/h2&gt;&lt;p&gt;我的學習順序大致會分Data Structure和Algorithms兩個大項&lt;br&gt;另外搭配leetcode的題目。&lt;/p&gt;</summary>
@@ -552,56 +612,6 @@
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
     <category term="ajax" scheme="https://kaiyuncheng.github.io/tags/ajax/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS] 關於window.location類別功能：轉址、取得網址參數</title>
-    <link href="https://kaiyuncheng.github.io/2020/11/25/windowLocation/"/>
-    <id>https://kaiyuncheng.github.io/2020/11/25/windowLocation/</id>
-    <published>2020-11-25T20:03:23.000Z</published>
-    <updated>2020-11-25T16:29:42.500Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;關於&quot;&gt;&lt;a href=&quot;#關於&quot; class=&quot;headerlink&quot; title=&quot;關於&quot;&gt;&lt;/a&gt;關於&lt;/h2&gt;&lt;p&gt;這篇主要會整理 視窗轉址、取得網址屬性參數等等用法。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="window.location" scheme="https://kaiyuncheng.github.io/tags/window-location/"/>
-    
-    <category term="url" scheme="https://kaiyuncheng.github.io/tags/url/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS] 關於時間 new Date()</title>
-    <link href="https://kaiyuncheng.github.io/2020/11/24/newDate/"/>
-    <id>https://kaiyuncheng.github.io/2020/11/24/newDate/</id>
-    <published>2020-11-24T13:15:32.000Z</published>
-    <updated>2020-12-11T10:37:53.120Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;關於時間&quot;&gt;&lt;a href=&quot;#關於時間&quot; class=&quot;headerlink&quot; title=&quot;關於時間&quot;&gt;&lt;/a&gt;關於時間&lt;/h2&gt;&lt;p&gt;在JavaScript中取得時間，可用new Date()，它是一個JS內建的一個Constructor，內容可以帶入參數來取得特定時間，不帶入參數則取得現在時間。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="date" scheme="https://kaiyuncheng.github.io/tags/date/"/>
-    
-    <category term="time" scheme="https://kaiyuncheng.github.io/tags/time/"/>
     
   </entry>
   
