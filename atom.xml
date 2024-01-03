@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2024-01-03T23:30:33.901Z</updated>
+  <updated>2024-01-03T23:32:31.820Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -21,11 +21,19 @@
     <link href="https://kaiyuncheng.github.io/2024/01/03/Typescript_02/"/>
     <id>https://kaiyuncheng.github.io/2024/01/03/Typescript_02/</id>
     <published>2024-01-03T14:05:12.000Z</published>
-    <updated>2024-01-03T23:30:33.901Z</updated>
+    <updated>2024-01-03T23:32:31.820Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;物件導向-OOP-class-設計圖&quot;&gt;&lt;a href=&quot;#物件導向-OOP-class-設計圖&quot; class=&quot;headerlink&quot; title=&quot;物件導向 OOP / class 設計圖&quot;&gt;&lt;/a&gt;物件導向 OOP / class 設計圖&lt;/h2&gt;&lt;p&gt;在物件導向的架構中，每個物件都具有接收訊息，處理資料以及發送訊息給其他物件的能力。&lt;/p&gt;
-&lt;p&gt;一個簡易的會員資料集&lt;br&gt;// 屬性：&lt;br&gt;// - name&lt;br&gt;// - age&lt;br&gt;// - address&lt;br&gt;// 功能：&lt;br&gt;// - 新增資料&lt;br&gt;// - 更新資料&lt;br&gt;// - 刪除資料&lt;/p&gt;</summary>
+&lt;p&gt;一個簡易的會員資料集&lt;/p&gt;
+&lt;h4 id=&quot;屬性：&quot;&gt;&lt;a href=&quot;#屬性：&quot; class=&quot;headerlink&quot; title=&quot;屬性：&quot;&gt;&lt;/a&gt;屬性：&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;name&lt;/li&gt;
+&lt;li&gt;age &lt;/li&gt;
+&lt;li&gt;address&lt;h4 id=&quot;功能：&quot;&gt;&lt;a href=&quot;#功能：&quot; class=&quot;headerlink&quot; title=&quot;功能：&quot;&gt;&lt;/a&gt;功能：&lt;/h4&gt;&lt;/li&gt;
+&lt;li&gt;新增資料&lt;/li&gt;
+&lt;li&gt;更新資料&lt;/li&gt;
+&lt;li&gt;刪除資料&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
