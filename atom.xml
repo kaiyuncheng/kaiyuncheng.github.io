@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2024-01-05T22:43:26.888Z</updated>
+  <updated>2024-01-10T23:02:33.841Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Websocket / Socket.IO</title>
+    <link href="https://kaiyuncheng.github.io/2024/01/07/websocket/"/>
+    <id>https://kaiyuncheng.github.io/2024/01/07/websocket/</id>
+    <published>2024-01-07T14:05:12.000Z</published>
+    <updated>2024-01-10T23:02:33.841Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Websocket&quot;&gt;&lt;a href=&quot;#Websocket&quot; class=&quot;headerlink&quot; title=&quot;Websocket&quot;&gt;&lt;/a&gt;Websocket&lt;/h2&gt;&lt;p&gt;Websocket是Html5的一種網路協定，用於前端瀏覽器(Client)與後端(Server)的溝通，協定只需要連線一次，除非有一方斷開連接，否則就會一直存在，不需重複請求，常用實作於聊天室、訊息推播、共同編輯上。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Websocket" scheme="https://kaiyuncheng.github.io/categories/Websocket/"/>
+    
+    
+    <category term="websocket" scheme="https://kaiyuncheng.github.io/tags/websocket/"/>
+    
+    <category term="socket.IO" scheme="https://kaiyuncheng.github.io/tags/socket-IO/"/>
+    
+  </entry>
   
   <entry>
     <title>Typescript Note 2 - OOP / class / interface</title>
@@ -51,7 +72,7 @@
     <link href="https://kaiyuncheng.github.io/2024/01/02/Typescript_01/"/>
     <id>https://kaiyuncheng.github.io/2024/01/02/Typescript_01/</id>
     <published>2024-01-02T17:45:17.000Z</published>
-    <updated>2024-01-03T20:14:53.199Z</updated>
+    <updated>2024-01-10T12:41:08.069Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Typescript-編譯安裝指令&quot;&gt;&lt;a href=&quot;#Typescript-編譯安裝指令&quot; class=&quot;headerlink&quot; title=&quot;Typescript 編譯安裝指令&quot;&gt;&lt;/a&gt;Typescript 編譯安裝指令&lt;/h2&gt;&lt;ol&gt;
@@ -316,9 +337,9 @@
     <category term="Functional JS" scheme="https://kaiyuncheng.github.io/categories/Javascript/Functional-JS/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="Functional Programming" scheme="https://kaiyuncheng.github.io/tags/Functional-Programming/"/>
     
@@ -345,11 +366,11 @@
     <category term="Vue" scheme="https://kaiyuncheng.github.io/categories/Vue/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
     
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="vue2" scheme="https://kaiyuncheng.github.io/tags/vue2/"/>
     
@@ -422,9 +443,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
@@ -447,9 +468,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="Local Storage" scheme="https://kaiyuncheng.github.io/tags/Local-Storage/"/>
     
@@ -488,9 +509,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
@@ -513,38 +534,13 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="window.location" scheme="https://kaiyuncheng.github.io/tags/window-location/"/>
     
     <category term="url" scheme="https://kaiyuncheng.github.io/tags/url/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS] 關於時間 new Date()</title>
-    <link href="https://kaiyuncheng.github.io/2020/11/24/newDate/"/>
-    <id>https://kaiyuncheng.github.io/2020/11/24/newDate/</id>
-    <published>2020-11-24T13:15:32.000Z</published>
-    <updated>2020-12-11T10:37:53.120Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;關於時間&quot;&gt;&lt;a href=&quot;#關於時間&quot; class=&quot;headerlink&quot; title=&quot;關於時間&quot;&gt;&lt;/a&gt;關於時間&lt;/h2&gt;&lt;p&gt;在JavaScript中取得時間，可用new Date()，它是一個JS內建的一個Constructor，內容可以帶入參數來取得特定時間，不帶入參數則取得現在時間。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="date" scheme="https://kaiyuncheng.github.io/tags/date/"/>
-    
-    <category term="time" scheme="https://kaiyuncheng.github.io/tags/time/"/>
     
   </entry>
   
