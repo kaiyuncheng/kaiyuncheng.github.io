@@ -6,7 +6,7 @@
   <link href="https://kaiyuncheng.github.io/atom.xml" rel="self"/>
   
   <link href="https://kaiyuncheng.github.io/"/>
-  <updated>2024-01-11T00:51:55.697Z</updated>
+  <updated>2024-01-11T00:53:49.618Z</updated>
   <id>https://kaiyuncheng.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kaiyuncheng.github.io/2024/01/07/websocket/"/>
     <id>https://kaiyuncheng.github.io/2024/01/07/websocket/</id>
     <published>2024-01-07T14:05:12.000Z</published>
-    <updated>2024-01-11T00:51:55.697Z</updated>
+    <updated>2024-01-11T00:53:49.618Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Websocket&quot;&gt;&lt;a href=&quot;#Websocket&quot; class=&quot;headerlink&quot; title=&quot;Websocket&quot;&gt;&lt;/a&gt;Websocket&lt;/h2&gt;&lt;p&gt;Websocket是Html5的一種網路協定，用於前端瀏覽器(Client)與後端(Server)的溝通，協定只需要連線一次，除非有一方斷開連接，否則就會一直存在，不需重複請求，常用實作於聊天室、訊息推播、共同編輯上。&lt;/p&gt;</summary>
