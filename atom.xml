@@ -238,7 +238,7 @@
 &lt;li&gt;註解(comment) /**  */&lt;/li&gt;
 &lt;li&gt;標記(tags) @&lt;/li&gt;
 &lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;型別註釋(type notation)&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;/** Repeat &amp;lt;b&amp;gt;AAA&amp;lt;/b&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt; * &lt;span class=&quot;doctag&quot;&gt;@namespace &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt; */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+&lt;li&gt;型別註釋(type notation)&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;/** Repeat &amp;lt;b&amp;gt;AAA&amp;lt;/b&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt; * &lt;span class=&quot;doctag&quot;&gt;@namespace&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt; */&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;&lt;/ol&gt;</summary>
     
     
     
@@ -261,7 +261,7 @@
     <updated>2023-12-09T18:41:30.585Z</updated>
     
     
-    <summary type="html">&lt;h3 id=&quot;Subclassing-a-built-in-的兩個障礙&quot;&gt;&lt;a href=&quot;#Subclassing-a-built-in-的兩個障礙&quot; class=&quot;headerlink&quot; title=&quot;Subclassing a built-in 的兩個障礙:&quot;&gt;&lt;/a&gt;Subclassing a built-in 的兩個障礙:&lt;/h3&gt;&lt;h3 id=&quot;Obstacle-1-帶有內部特性的實體&quot;&gt;&lt;a href=&quot;#Obstacle-1-帶有內部特性的實體&quot; class=&quot;headerlink&quot; title=&quot;Obstacle 1 帶有內部特性的實體&quot;&gt;&lt;/a&gt;Obstacle 1 帶有內部特性的實體&lt;/h3&gt;&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Super&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y&lt;/span&gt;)&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;.x = x;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;.y = y;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;Sub&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y ,z&lt;/span&gt;)&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; Super.call(&lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;, x, y);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;built_in&quot;&gt;this&lt;/span&gt;.z = z;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    <summary type="html">&lt;h3 id=&quot;Subclassing-a-built-in-的兩個障礙&quot;&gt;&lt;a href=&quot;#Subclassing-a-built-in-的兩個障礙&quot; class=&quot;headerlink&quot; title=&quot;Subclassing a built-in 的兩個障礙:&quot;&gt;&lt;/a&gt;Subclassing a built-in 的兩個障礙:&lt;/h3&gt;&lt;h3 id=&quot;Obstacle-1-帶有內部特性的實體&quot;&gt;&lt;a href=&quot;#Obstacle-1-帶有內部特性的實體&quot; class=&quot;headerlink&quot; title=&quot;Obstacle 1 帶有內部特性的實體&quot;&gt;&lt;/a&gt;Obstacle 1 帶有內部特性的實體&lt;/h3&gt;&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;Super&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y&lt;/span&gt;){&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;.&lt;span class=&quot;property&quot;&gt;x&lt;/span&gt; = x;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;.&lt;span class=&quot;property&quot;&gt;y&lt;/span&gt; = y;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;Sub&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y ,z&lt;/span&gt;){&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;title class_&quot;&gt;Super&lt;/span&gt;.&lt;span class=&quot;title function_&quot;&gt;call&lt;/span&gt;(&lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;, x, y);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;.&lt;span class=&quot;property&quot;&gt;z&lt;/span&gt; = z;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;內建建構器會忽略傳入傳入作為this的子實體&lt;/p&gt;</summary>
     
     
@@ -286,7 +286,7 @@
     
     
     <summary type="html">&lt;h1 id=&quot;運算子-Operators&quot;&gt;&lt;a href=&quot;#運算子-Operators&quot; class=&quot;headerlink&quot; title=&quot;運算子 (Operators)&quot;&gt;&lt;/a&gt;運算子 (Operators)&lt;/h1&gt;&lt;p&gt;大部分的運算子只能搭配基本型別值使用，代表物件會先被強制轉型成基本型別，再進行運算。&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;, &lt;span class=&quot;number&quot;&gt;2&lt;/span&gt;] + [&lt;span class=&quot;number&quot;&gt;3&lt;/span&gt;] &lt;span class=&quot;comment&quot;&gt;// &amp;quot;1,23&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// String([1, 2]) + String([3])&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;, &lt;span class=&quot;number&quot;&gt;2&lt;/span&gt;] + [&lt;span class=&quot;number&quot;&gt;3&lt;/span&gt;] &lt;span class=&quot;comment&quot;&gt;// &quot;1,23&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// String([1, 2]) + String([3])&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
     
@@ -360,9 +360,9 @@
     <category term="Functional JS" scheme="https://kaiyuncheng.github.io/categories/Javascript/Functional-JS/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="Functional Programming" scheme="https://kaiyuncheng.github.io/tags/Functional-Programming/"/>
     
@@ -389,11 +389,11 @@
     <category term="Vue" scheme="https://kaiyuncheng.github.io/categories/Vue/"/>
     
     
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="vue2" scheme="https://kaiyuncheng.github.io/tags/vue2/"/>
     
@@ -466,9 +466,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
@@ -491,9 +491,9 @@
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="Local Storage" scheme="https://kaiyuncheng.github.io/tags/Local-Storage/"/>
     
@@ -525,16 +525,16 @@
 &lt;li&gt;&lt;a href=&quot;#Day57&quot;&gt;Day 57 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#Day58&quot;&gt;Day 58 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#Day59&quot;&gt;Day 59 - 提交作品&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day60&quot;&gt;Day 60 - 提交作品&lt;/a&gt;</summary>
+&lt;li&gt;&lt;a href=&quot;#Day60&quot;&gt;Day 60 - 提交作品&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary>
     
     
     
     <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
     
     
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
