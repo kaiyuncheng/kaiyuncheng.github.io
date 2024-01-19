@@ -99,7 +99,7 @@
     <link href="https://kaiyuncheng.github.io/2023/12/20/react_01/"/>
     <id>https://kaiyuncheng.github.io/2023/12/20/react_01/</id>
     <published>2023-12-20T23:10:11.000Z</published>
-    <updated>2024-01-19T23:06:51.509Z</updated>
+    <updated>2024-01-19T23:09:24.469Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;class-typescript-用法&quot;&gt;&lt;a href=&quot;#class-typescript-用法&quot; class=&quot;headerlink&quot; title=&quot;class + typescript 用法&quot;&gt;&lt;/a&gt;class + typescript 用法&lt;/h2&gt;&lt;p&gt;現在大多的React新專案都改成用hooks了，但還是有一些老舊專案會遇到，這邊會來記錄一下用法。&lt;/p&gt;</summary>
@@ -391,9 +391,9 @@
     
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="vue2" scheme="https://kaiyuncheng.github.io/tags/vue2/"/>
     
