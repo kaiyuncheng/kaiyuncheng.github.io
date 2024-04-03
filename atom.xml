@@ -122,16 +122,22 @@
     <link href="https://kaiyuncheng.github.io/2023/10/01/leetcodeDay6/"/>
     <id>https://kaiyuncheng.github.io/2023/10/01/leetcodeDay6/</id>
     <published>2023-10-01T14:56:41.000Z</published>
-    <updated>2024-04-03T16:23:00.365Z</updated>
+    <updated>2024-04-03T16:24:29.973Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Map&quot;&gt;&lt;a href=&quot;#Map&quot; class=&quot;headerlink&quot; title=&quot;Map&quot;&gt;&lt;/a&gt;Map&lt;/h2&gt;&lt;p&gt;The Map object holds key-value pairs and remembers the original</summary>
-        
-      
+    <summary type="html">&lt;h2 id=&quot;Map&quot;&gt;&lt;a href=&quot;#Map&quot; class=&quot;headerlink&quot; title=&quot;Map&quot;&gt;&lt;/a&gt;Map&lt;/h2&gt;&lt;p&gt;The Map object holds key-value pairs and remembers the original insertion order of the keys. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map&quot;&gt;MDN MAP&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;elements in an array do not repeat -&amp;gt; use &lt;code&gt;Set&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;elements in an object do not repeat -&amp;gt; use &lt;code&gt;Map&lt;/code&gt;&lt;br&gt;both have size, has(), and keys().&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;與Object有點類似，但Map裡面的key是唯一的，重複set會覆蓋舊的value&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Map的key除了原始型別外，可以是任何值object或function&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
@@ -455,9 +461,9 @@
     
     <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
     
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
     <category term="vue" scheme="https://kaiyuncheng.github.io/tags/vue/"/>
+    
+    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="vue2" scheme="https://kaiyuncheng.github.io/tags/vue2/"/>
     
