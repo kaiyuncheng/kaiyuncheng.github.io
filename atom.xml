@@ -118,6 +118,68 @@
   </entry>
   
   <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day5 Map</title>
+    <link href="https://kaiyuncheng.github.io/2023/10/01/leetcodeDay6/"/>
+    <id>https://kaiyuncheng.github.io/2023/10/01/leetcodeDay6/</id>
+    <published>2023-10-01T14:56:41.000Z</published>
+    <updated>2024-04-03T16:23:00.365Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Map&quot;&gt;&lt;a href=&quot;#Map&quot; class=&quot;headerlink&quot; title=&quot;Map&quot;&gt;&lt;/a&gt;Map&lt;/h2&gt;&lt;p&gt;The Map object holds key-value pairs and remembers the original</summary>
+        
+      
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Map" scheme="https://kaiyuncheng.github.io/tags/Map/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day5 集合 Set</title>
+    <link href="https://kaiyuncheng.github.io/2023/10/01/leetcodeDay5/"/>
+    <id>https://kaiyuncheng.github.io/2023/10/01/leetcodeDay5/</id>
+    <published>2023-10-01T07:56:41.000Z</published>
+    <updated>2024-04-03T15:39:48.173Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;集合-Set&quot;&gt;&lt;a href=&quot;#集合-Set&quot; class=&quot;headerlink&quot; title=&quot;集合 Set&quot;&gt;&lt;/a&gt;集合 Set&lt;/h2&gt;&lt;p&gt;The Set object lets you store unique values of any</summary>
+        
+      
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Set" scheme="https://kaiyuncheng.github.io/tags/Set/"/>
+    
+  </entry>
+  
+  <entry>
     <title>[用JS來寫演算法和了解資料結構] Day4 陣列 leetcode #905, #561</title>
     <link href="https://kaiyuncheng.github.io/2023/09/29/leetcodeDay4/"/>
     <id>https://kaiyuncheng.github.io/2023/09/29/leetcodeDay4/</id>
@@ -475,72 +537,6 @@
     <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
     
     <category term="Destructuring Assignment" scheme="https://kaiyuncheng.github.io/tags/Destructuring-Assignment/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS] localStorage 怎麼用？和Cookie、Session Storage差在哪？</title>
-    <link href="https://kaiyuncheng.github.io/2020/12/02/localStorage/"/>
-    <id>https://kaiyuncheng.github.io/2020/12/02/localStorage/</id>
-    <published>2020-12-03T03:54:46.000Z</published>
-    <updated>2020-12-02T18:11:30.510Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;localStorage在許多網站上很常會應用到，這篇會來整理localStorage的用法，另外會比較Cookie和Session Storage。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="Local Storage" scheme="https://kaiyuncheng.github.io/tags/Local-Storage/"/>
-    
-    <category term="Session Storage" scheme="https://kaiyuncheng.github.io/tags/Session-Storage/"/>
-    
-    <category term="Cookie" scheme="https://kaiyuncheng.github.io/tags/Cookie/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS 60 Days] Day 47 to Day 60 - AJAX Post和Get</title>
-    <link href="https://kaiyuncheng.github.io/2020/11/26/js60Day47toDay60/"/>
-    <id>https://kaiyuncheng.github.io/2020/11/26/js60Day47toDay60/</id>
-    <published>2020-11-26T05:31:07.000Z</published>
-    <updated>2020-12-03T08:11:15.360Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#Day47&quot;&gt;Day 47 - AJAX POST&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day48&quot;&gt;Day 48 - AJAX POST 小練習&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day49&quot;&gt;Day 49 - 旅館訂房網&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day50&quot;&gt;Day 50 - 旅館訂房網&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day51&quot;&gt;Day 51 - 頁面傳遞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day52&quot;&gt;Day 52 - 頁面傳遞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day53&quot;&gt;Day 53 - 頁面傳遞&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day54&quot;&gt;Day 54 - POST API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day55&quot;&gt;Day 55 - 簡單預約列表&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day56&quot;&gt;Day 56 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day57&quot;&gt;Day 57 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day58&quot;&gt;Day 58 - 訂房網該做的功能&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day59&quot;&gt;Day 59 - 提交作品&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#Day60&quot;&gt;Day 60 - 提交作品&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
-    
-    <category term="ajax" scheme="https://kaiyuncheng.github.io/tags/ajax/"/>
     
   </entry>
   
