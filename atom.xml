@@ -118,11 +118,37 @@
   </entry>
   
   <entry>
-    <title>[用JS來寫演算法和了解資料結構] Day6 Map</title>
+    <title>[用JS來寫演算法和了解資料結構] Day7 Linked-list 鏈結串列</title>
+    <link href="https://kaiyuncheng.github.io/2023/10/02/leetcodeDay7/"/>
+    <id>https://kaiyuncheng.github.io/2023/10/02/leetcodeDay7/</id>
+    <published>2023-10-02T16:56:41.000Z</published>
+    <updated>2024-04-13T06:08:55.638Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Linked-list-鏈結串列&quot;&gt;&lt;a href=&quot;#Linked-list-鏈結串列&quot; class=&quot;headerlink&quot; title=&quot;Linked-list 鏈結串列&quot;&gt;&lt;/a&gt;Linked-list 鏈結串列&lt;/h2&gt;&lt;p&gt;鏈結串列是一種常見的基礎資料結構，是一種線性序列，但是並不會按線性的順序儲存資料，而是在每一個節點裡存到下一個節點的指標。&lt;br&gt;生活例子類似火車，節點Node，像是車廂&lt;/p&gt;
+&lt;p&gt;由於不必須按順序儲存，鏈結串列在插入的時候可以達到O(1)的複雜度，但是尋找一個節點或者存取特定編號的節點則需要O(n)的時間&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
+    
+    <category term="leetcode" scheme="https://kaiyuncheng.github.io/tags/leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Linked-list" scheme="https://kaiyuncheng.github.io/tags/Linked-list/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[用JS來寫演算法和了解資料結構]  Hash Table - Day6 Map</title>
     <link href="https://kaiyuncheng.github.io/2023/10/01/leetcodeDay6/"/>
     <id>https://kaiyuncheng.github.io/2023/10/01/leetcodeDay6/</id>
     <published>2023-10-01T14:56:41.000Z</published>
-    <updated>2024-04-03T21:59:58.008Z</updated>
+    <updated>2024-04-13T06:08:21.097Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Map&quot;&gt;&lt;a href=&quot;#Map&quot; class=&quot;headerlink&quot; title=&quot;Map&quot;&gt;&lt;/a&gt;Map&lt;/h2&gt;&lt;p&gt;The Map object holds key-value pairs and remembers the original insertion order of the keys. &lt;/p&gt;
@@ -152,23 +178,35 @@
     
     <category term="Map" scheme="https://kaiyuncheng.github.io/tags/Map/"/>
     
+    <category term="HashTable" scheme="https://kaiyuncheng.github.io/tags/HashTable/"/>
+    
   </entry>
   
   <entry>
-    <title>[用JS來寫演算法和了解資料結構] Day5 集合 Set</title>
+    <title>[用JS來寫演算法和了解資料結構] Day5 Hash Table - 集合 Set</title>
     <link href="https://kaiyuncheng.github.io/2023/10/01/leetcodeDay5/"/>
     <id>https://kaiyuncheng.github.io/2023/10/01/leetcodeDay5/</id>
     <published>2023-10-01T07:56:41.000Z</published>
-    <updated>2024-04-03T15:39:48.173Z</updated>
+    <updated>2024-04-13T02:02:52.177Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;集合-Set&quot;&gt;&lt;a href=&quot;#集合-Set&quot; class=&quot;headerlink&quot; title=&quot;集合 Set&quot;&gt;&lt;/a&gt;集合 Set&lt;/h2&gt;&lt;p&gt;The Set object lets you store unique values of any</summary>
-        
-      
+    <summary type="html">&lt;h2 id=&quot;Hash-Tables&quot;&gt;&lt;a href=&quot;#Hash-Tables&quot; class=&quot;headerlink&quot; title=&quot;Hash Tables&quot;&gt;&lt;/a&gt;Hash Tables&lt;/h2&gt;&lt;p&gt;in javascript &lt;code&gt;object&lt;/code&gt; could be represented Hash Tables.&lt;/p&gt;
+&lt;p&gt;Hash Collision -&amp;gt; 是指不同的輸入經過 Hash 函數計算後，得到了相同的輸出值。相同hash編號內的資料，會透過Linked List的方式串接在一起。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hash Table 常用在儲存使用者的 Email、使用者資料。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;Operations-on-Hash-Tables&quot;&gt;&lt;a href=&quot;#Operations-on-Hash-Tables&quot; class=&quot;headerlink&quot; title=&quot;Operations on Hash Tables&quot;&gt;&lt;/a&gt;Operations on Hash Tables&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Insert - O(1) &lt;/li&gt;
+&lt;li&gt;Access Lookup- O(1) &lt;/li&gt;
+&lt;li&gt;Search - O(1) &lt;/li&gt;
+&lt;li&gt;Delete - O(1) &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;集合-Set&quot;&gt;&lt;a href=&quot;#集合-Set&quot; class=&quot;headerlink&quot; title=&quot;集合 Set&quot;&gt;&lt;/a&gt;集合 Set&lt;/h2&gt;&lt;p&gt;The Set object lets you store unique values of any type, whether primitive values or object references.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;elements in an array do not repeat -&amp;gt; use &lt;code&gt;Set&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;elements in an object do not repeat -&amp;gt; use &lt;code&gt;Map&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;both have size, has(), and keys().&lt;/p&gt;</summary>
     
     
     
@@ -181,16 +219,18 @@
     
     <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
     
+    <category term="HashTable" scheme="https://kaiyuncheng.github.io/tags/HashTable/"/>
+    
     <category term="Set" scheme="https://kaiyuncheng.github.io/tags/Set/"/>
     
   </entry>
   
   <entry>
-    <title>[用JS來寫演算法和了解資料結構] Day4 陣列 leetcode #905, #561</title>
+    <title>[用JS來寫演算法和了解資料結構] Day4 陣列 Array - leetcode #905, #561</title>
     <link href="https://kaiyuncheng.github.io/2023/09/29/leetcodeDay4/"/>
     <id>https://kaiyuncheng.github.io/2023/09/29/leetcodeDay4/</id>
     <published>2023-09-29T08:55:00.000Z</published>
-    <updated>2023-12-09T18:40:59.208Z</updated>
+    <updated>2024-04-13T06:08:25.430Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Leetcode-陣列題型&quot;&gt;&lt;a href=&quot;#Leetcode-陣列題型&quot; class=&quot;headerlink&quot; title=&quot;Leetcode 陣列題型&quot;&gt;&lt;/a&gt;Leetcode 陣列題型&lt;/h2&gt;&lt;p&gt;這篇會跟著 Hannah 的鐵人賽刷的題目，會慢慢再更新其他題目。&lt;/p&gt;</summary>
@@ -211,11 +251,11 @@
   </entry>
   
   <entry>
-    <title>[用JS來寫演算法和了解資料結構] Day3 陣列、簡易搜索、二分搜索、leetcode #1064</title>
+    <title>[用JS來寫演算法和了解資料結構] Day3 Array 陣列 - 簡易搜索、二分搜索、leetcode #1064</title>
     <link href="https://kaiyuncheng.github.io/2023/09/27/leetcodeDay3/"/>
     <id>https://kaiyuncheng.github.io/2023/09/27/leetcodeDay3/</id>
     <published>2023-09-28T00:52:33.000Z</published>
-    <updated>2023-12-09T18:40:56.221Z</updated>
+    <updated>2024-04-12T01:10:23.511Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;陣列&quot;&gt;&lt;a href=&quot;#陣列&quot; class=&quot;headerlink&quot; title=&quot;陣列&quot;&gt;&lt;/a&gt;陣列&lt;/h2&gt;&lt;p&gt;陣列應該是資料結構中對於寫javascript的人來說最友好的，js的陣列可以放入不同型別的資料(像是C/Java這樣的語言，陣列的大小和資料型別要先定義)，加上js有許多陣列方法，雖然蠻多是O(n^2)以上，但相對的寫法算很簡潔…&lt;/p&gt;</summary>
@@ -244,7 +284,7 @@
     <link href="https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/"/>
     <id>https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/</id>
     <published>2023-09-27T06:08:41.000Z</published>
-    <updated>2024-03-29T22:22:40.063Z</updated>
+    <updated>2024-04-13T06:08:28.831Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;學習目錄&quot;&gt;&lt;a href=&quot;#學習目錄&quot; class=&quot;headerlink&quot; title=&quot;學習目錄&quot;&gt;&lt;/a&gt;學習目錄&lt;/h2&gt;&lt;p&gt;我的學習順序大致會分Data Structure和Algorithms兩個大項&lt;br&gt;另外搭配leetcode的題目。&lt;/p&gt;</summary>
@@ -261,6 +301,8 @@
     <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
     
     <category term="catalogue" scheme="https://kaiyuncheng.github.io/tags/catalogue/"/>
+    
+    <category term="data structures" scheme="https://kaiyuncheng.github.io/tags/data-structures/"/>
     
   </entry>
   
@@ -517,32 +559,6 @@
     <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
     
     <category term="gulp" scheme="https://kaiyuncheng.github.io/tags/gulp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS]關於解構賦值(Destructuring Assignment)</title>
-    <link href="https://kaiyuncheng.github.io/2020/12/10/destructuringAssignment/"/>
-    <id>https://kaiyuncheng.github.io/2020/12/10/destructuringAssignment/</id>
-    <published>2020-12-10T22:27:02.000Z</published>
-    <updated>2020-12-10T16:17:00.200Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;剛開始接觸JS的時候，常常會很困惑解構賦值的寫法，這篇會來整理關於解構賦值的用法來幫助釐清觀念。&lt;/p&gt;
-&lt;h2 id=&quot;解構賦值-Destructuring-assignment&quot;&gt;&lt;a href=&quot;#解構賦值-Destructuring-assignment&quot; class=&quot;headerlink&quot; title=&quot;解構賦值 (Destructuring assignment)&quot;&gt;&lt;/a&gt;解構賦值 (Destructuring assignment)&lt;/h2&gt;&lt;p&gt;解構賦值 (Destructuring assignment) 語法是一種 JavaScript ES6的 運算式，可以把&lt;strong&gt;陣列&lt;/strong&gt;或&lt;strong&gt;物件&lt;/strong&gt;中的資料提取出來成為獨立變數。新語法讓程式變得簡短提高閱讀性。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="javascript" scheme="https://kaiyuncheng.github.io/tags/javascript/"/>
-    
-    <category term="frontend" scheme="https://kaiyuncheng.github.io/tags/frontend/"/>
-    
-    <category term="ES6" scheme="https://kaiyuncheng.github.io/tags/ES6/"/>
-    
-    <category term="Destructuring Assignment" scheme="https://kaiyuncheng.github.io/tags/Destructuring-Assignment/"/>
     
   </entry>
   
