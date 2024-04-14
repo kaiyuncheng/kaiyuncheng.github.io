@@ -118,23 +118,74 @@
   </entry>
   
   <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day10 Algorithm - Searching / Traversal</title>
+    <link href="https://kaiyuncheng.github.io/2023/10/09/leetcodeDay14/"/>
+    <id>https://kaiyuncheng.github.io/2023/10/09/leetcodeDay14/</id>
+    <published>2023-10-10T01:01:21.000Z</published>
+    <updated>2024-04-14T20:14:01.974Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Searching-Traversal&quot;&gt;&lt;a href=&quot;#Searching-Traversal&quot; class=&quot;headerlink&quot; title=&quot;Searching / Traversal&quot;&gt;&lt;/a&gt;Searching / Traversal&lt;/h2&gt;&lt;p&gt;BFS + DFS&lt;br&gt;簡易搜尋/線性搜索 Sequential Search/Linear Search&lt;br&gt;二分搜尋 Binary Search&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/tags/Javascript/"/>
+    
+    <category term="Leetcode" scheme="https://kaiyuncheng.github.io/tags/Leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Data Structures" scheme="https://kaiyuncheng.github.io/tags/Data-Structures/"/>
+    
+    <category term="Searching" scheme="https://kaiyuncheng.github.io/tags/Searching/"/>
+    
+    <category term="Traversal" scheme="https://kaiyuncheng.github.io/tags/Traversal/"/>
+    
+  </entry>
+  
+  <entry>
     <title>[用JS來寫演算法和了解資料結構] Day12 Algorithm - Sorting 排序</title>
     <link href="https://kaiyuncheng.github.io/2023/10/08/leetcodeDay13/"/>
     <id>https://kaiyuncheng.github.io/2023/10/08/leetcodeDay13/</id>
     <published>2023-10-08T14:31:16.000Z</published>
-    <updated>2024-04-13T22:43:31.445Z</updated>
+    <updated>2024-04-14T20:11:49.477Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Sorting-排序&quot;&gt;&lt;a href=&quot;#Sorting-排序&quot; class=&quot;headerlink&quot; title=&quot;Sorting 排序&quot;&gt;&lt;/a&gt;Sorting 排序&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;排序 Sorting: &lt;/li&gt;
+&lt;li&gt;排序 Sorting:&lt;br&gt;Comparison Sort&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
-&lt;li&gt;氣泡排序 Bubble Sort - &lt;/li&gt;
-&lt;li&gt;插入排序 Insertion Sort - O(n)&lt;/li&gt;
-&lt;li&gt;選擇排序 Selection Sort - O(n^2)&lt;/li&gt;
-&lt;li&gt;合併排序 Merge Sort -&lt;/li&gt;
-&lt;li&gt;快速排序 Quick Sort -&lt;/li&gt;
-&lt;/ol&gt;</summary>
+&lt;li&gt;&lt;p&gt;氣泡排序 Bubble Sort - Time O(n) or O(n^2) / Space - O(1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;選擇排序 Selection Sort - Time O(n^2) /  Space - O(1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;插入排序 Insertion Sort - Time O(n) or O(n^2) / Space - O(1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;合併排序 Merge Sort - Time O(n log n) / Space - O(n)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;快速排序 Quick Sort - Time O(n log n) / Space - O(log n)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;合併排序 Merge Sort 和 快速排序 Quick Sort 用 Divide and Conquer Recursion 方式 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Heap Sort &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Non-Comparison Sort&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Counting Sort&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Radix Sort&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.toptal.com/developers/sorting-algorithms&quot;&gt;Sorting Algorithms Animations&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/AlgoRythmics/videos&quot;&gt;Sorting Dances Video&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
@@ -158,7 +209,7 @@
     <link href="https://kaiyuncheng.github.io/2023/10/07/leetcodeDay12/"/>
     <id>https://kaiyuncheng.github.io/2023/10/07/leetcodeDay12/</id>
     <published>2023-10-07T20:30:13.000Z</published>
-    <updated>2024-04-13T22:42:45.793Z</updated>
+    <updated>2024-04-13T23:10:54.770Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Recursion-遞迴&quot;&gt;&lt;a href=&quot;#Recursion-遞迴&quot; class=&quot;headerlink&quot; title=&quot;Recursion 遞迴&quot;&gt;&lt;/a&gt;Recursion 遞迴&lt;/h2&gt;&lt;ul&gt;
@@ -295,7 +346,7 @@
     <link href="https://kaiyuncheng.github.io/2023/10/02/leetcodeDay7/"/>
     <id>https://kaiyuncheng.github.io/2023/10/02/leetcodeDay7/</id>
     <published>2023-10-02T16:56:41.000Z</published>
-    <updated>2024-04-13T22:42:45.828Z</updated>
+    <updated>2024-04-14T20:14:17.114Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Linked-list-鏈結串列&quot;&gt;&lt;a href=&quot;#Linked-list-鏈結串列&quot; class=&quot;headerlink&quot; title=&quot;Linked-list 鏈結串列&quot;&gt;&lt;/a&gt;Linked-list 鏈結串列&lt;/h2&gt;&lt;p&gt;鏈結串列是一種常見的基礎資料結構，是一種線性序列，但是並不會按線性的順序儲存資料，而是在每一個節點裡存到下一個節點的指標。&lt;br&gt;生活例子類似火車，節點Node，像是車廂&lt;/p&gt;
@@ -473,7 +524,7 @@
     <link href="https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/"/>
     <id>https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/</id>
     <published>2023-09-27T06:08:41.000Z</published>
-    <updated>2024-04-13T22:42:45.828Z</updated>
+    <updated>2024-04-14T20:14:14.348Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;學習目錄&quot;&gt;&lt;a href=&quot;#學習目錄&quot; class=&quot;headerlink&quot; title=&quot;學習目錄&quot;&gt;&lt;/a&gt;學習目錄&lt;/h2&gt;&lt;p&gt;我的學習順序大致會分Data Structure和Algorithms兩個大項&lt;br&gt;另外搭配leetcode的題目。&lt;/p&gt;</summary>
@@ -575,28 +626,6 @@
     <category term="subclass" scheme="https://kaiyuncheng.github.io/tags/subclass/"/>
     
     <category term="constructor" scheme="https://kaiyuncheng.github.io/tags/constructor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[JS] 關於 Operators 運算子</title>
-    <link href="https://kaiyuncheng.github.io/2022/04/10/operator/"/>
-    <id>https://kaiyuncheng.github.io/2022/04/10/operator/</id>
-    <published>2022-04-10T19:33:56.000Z</published>
-    <updated>2024-04-13T22:34:02.509Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;運算子-Operators&quot;&gt;&lt;a href=&quot;#運算子-Operators&quot; class=&quot;headerlink&quot; title=&quot;運算子 (Operators)&quot;&gt;&lt;/a&gt;運算子 (Operators)&lt;/h1&gt;&lt;p&gt;大部分的運算子只能搭配基本型別值使用，代表物件會先被強制轉型成基本型別，再進行運算。&lt;/p&gt;
-&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;[&lt;span class=&quot;number&quot;&gt;1&lt;/span&gt;, &lt;span class=&quot;number&quot;&gt;2&lt;/span&gt;] + [&lt;span class=&quot;number&quot;&gt;3&lt;/span&gt;] &lt;span class=&quot;comment&quot;&gt;// &quot;1,23&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;// String([1, 2]) + String([3])&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/tags/Javascript/"/>
-    
-    <category term="operators" scheme="https://kaiyuncheng.github.io/tags/operators/"/>
     
   </entry>
   
