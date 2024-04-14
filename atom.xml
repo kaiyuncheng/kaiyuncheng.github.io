@@ -118,14 +118,53 @@
   </entry>
   
   <entry>
+    <title>[用JS來寫演算法和了解資料結構] Day15 動態規劃 Dynamic programming - Closure / Fibonacci numbers</title>
+    <link href="https://kaiyuncheng.github.io/2023/10/10/leetcodeDay15/"/>
+    <id>https://kaiyuncheng.github.io/2023/10/10/leetcodeDay15/</id>
+    <published>2023-10-10T07:56:41.000Z</published>
+    <updated>2024-04-14T23:26:51.347Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;動態規劃-Dynamic-programming&quot;&gt;&lt;a href=&quot;#動態規劃-Dynamic-programming&quot; class=&quot;headerlink&quot; title=&quot;動態規劃 Dynamic programming&quot;&gt;&lt;/a&gt;動態規劃 Dynamic programming&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;using ‘Cache’ Memoization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;動態規劃的基本思想是將「原始問題」分解成多個「子問題」，先求解並「儲存」這些子問題的解到 cache，然後通過這些子問題的解來提供給原問題。這樣做的目的是避免重複計算，從而提高算法的效率。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;與 分而治之 Divide-and-Conquer 很像，但最大的差別是子問題大多類似，並先儲存子問題的解到 cache，之後需要使用到時就不用重複計算&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/categories/Algorithm/"/>
+    
+    
+    <category term="Javascript" scheme="https://kaiyuncheng.github.io/tags/Javascript/"/>
+    
+    <category term="Leetcode" scheme="https://kaiyuncheng.github.io/tags/Leetcode/"/>
+    
+    <category term="Algorithm" scheme="https://kaiyuncheng.github.io/tags/Algorithm/"/>
+    
+    <category term="Dynamic programming" scheme="https://kaiyuncheng.github.io/tags/Dynamic-programming/"/>
+    
+    <category term="Fibonacci numbers" scheme="https://kaiyuncheng.github.io/tags/Fibonacci-numbers/"/>
+    
+    <category term="Closure" scheme="https://kaiyuncheng.github.io/tags/Closure/"/>
+    
+  </entry>
+  
+  <entry>
     <title>[用JS來寫演算法和了解資料結構] Day10 Algorithm - Searching / Traversal</title>
     <link href="https://kaiyuncheng.github.io/2023/10/09/leetcodeDay14/"/>
     <id>https://kaiyuncheng.github.io/2023/10/09/leetcodeDay14/</id>
     <published>2023-10-10T01:01:21.000Z</published>
-    <updated>2024-04-14T20:14:01.974Z</updated>
+    <updated>2024-04-14T23:00:26.164Z</updated>
     
     
-    <summary type="html">&lt;h2 id=&quot;Searching-Traversal&quot;&gt;&lt;a href=&quot;#Searching-Traversal&quot; class=&quot;headerlink&quot; title=&quot;Searching / Traversal&quot;&gt;&lt;/a&gt;Searching / Traversal&lt;/h2&gt;&lt;p&gt;BFS + DFS&lt;br&gt;簡易搜尋/線性搜索 Sequential Search/Linear Search&lt;br&gt;二分搜尋 Binary Search&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;Searching-Traversal&quot;&gt;&lt;a href=&quot;#Searching-Traversal&quot; class=&quot;headerlink&quot; title=&quot;Searching / Traversal&quot;&gt;&lt;/a&gt;Searching / Traversal&lt;/h2&gt;&lt;p&gt;Search&lt;br&gt;簡易搜尋/線性搜索 Sequential Search/Linear Search - O(n)&lt;br&gt;二分搜尋 Binary Search - O(log n) &lt;/p&gt;
+&lt;p&gt;Traversal&lt;br&gt;Depth First Search (DFS)   先 上到下 再 左到右 - O(n)&lt;br&gt;Breadth First Search (BFS) 先 左到右 再 上到下  - O(n)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DFS use lower memories than BFS&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
@@ -151,7 +190,7 @@
     <link href="https://kaiyuncheng.github.io/2023/10/08/leetcodeDay13/"/>
     <id>https://kaiyuncheng.github.io/2023/10/08/leetcodeDay13/</id>
     <published>2023-10-08T14:31:16.000Z</published>
-    <updated>2024-04-14T20:11:49.477Z</updated>
+    <updated>2024-04-14T23:27:08.176Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Sorting-排序&quot;&gt;&lt;a href=&quot;#Sorting-排序&quot; class=&quot;headerlink&quot; title=&quot;Sorting 排序&quot;&gt;&lt;/a&gt;Sorting 排序&lt;/h2&gt;&lt;ul&gt;
@@ -177,14 +216,8 @@
 &lt;/ul&gt;
 &lt;p&gt;Non-Comparison Sort&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Counting Sort&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Radix Sort&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.toptal.com/developers/sorting-algorithms&quot;&gt;Sorting Algorithms Animations&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/AlgoRythmics/videos&quot;&gt;Sorting Dances Video&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Counting Sort&lt;/li&gt;
+&lt;li&gt;Radix Sort&lt;/li&gt;
 &lt;/ul&gt;</summary>
     
     
@@ -466,7 +499,7 @@
     <link href="https://kaiyuncheng.github.io/2023/09/29/leetcodeDay4/"/>
     <id>https://kaiyuncheng.github.io/2023/09/29/leetcodeDay4/</id>
     <published>2023-09-29T08:55:00.000Z</published>
-    <updated>2024-04-13T22:42:45.828Z</updated>
+    <updated>2024-04-14T21:58:34.578Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;Leetcode-陣列題型&quot;&gt;&lt;a href=&quot;#Leetcode-陣列題型&quot; class=&quot;headerlink&quot; title=&quot;Leetcode 陣列題型&quot;&gt;&lt;/a&gt;Leetcode 陣列題型&lt;/h2&gt;&lt;p&gt;這篇會跟著 Hannah 的鐵人賽刷的題目，會慢慢再更新其他題目。&lt;/p&gt;</summary>
@@ -493,7 +526,7 @@
     <link href="https://kaiyuncheng.github.io/2023/09/27/leetcodeDay3/"/>
     <id>https://kaiyuncheng.github.io/2023/09/27/leetcodeDay3/</id>
     <published>2023-09-28T00:52:33.000Z</published>
-    <updated>2024-04-13T22:42:45.860Z</updated>
+    <updated>2024-04-14T22:54:21.185Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;陣列&quot;&gt;&lt;a href=&quot;#陣列&quot; class=&quot;headerlink&quot; title=&quot;陣列&quot;&gt;&lt;/a&gt;陣列&lt;/h2&gt;&lt;p&gt;陣列應該是資料結構中對於寫javascript的人來說最友好的，js的陣列可以放入不同型別的資料(像是C/Java這樣的語言，陣列的大小和資料型別要先定義)，加上js有許多陣列方法，雖然蠻多是O(n^2)以上，但相對的寫法算很簡潔…&lt;/p&gt;</summary>
@@ -524,7 +557,7 @@
     <link href="https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/"/>
     <id>https://kaiyuncheng.github.io/2023/09/27/leetcodeDay2/</id>
     <published>2023-09-27T06:08:41.000Z</published>
-    <updated>2024-04-14T20:14:14.348Z</updated>
+    <updated>2024-04-14T20:49:36.648Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;學習目錄&quot;&gt;&lt;a href=&quot;#學習目錄&quot; class=&quot;headerlink&quot; title=&quot;學習目錄&quot;&gt;&lt;/a&gt;學習目錄&lt;/h2&gt;&lt;p&gt;我的學習順序大致會分Data Structure和Algorithms兩個大項&lt;br&gt;另外搭配leetcode的題目。&lt;/p&gt;</summary>
@@ -602,30 +635,6 @@
     <category term="jsdoc" scheme="https://kaiyuncheng.github.io/tags/jsdoc/"/>
     
     <category term="api" scheme="https://kaiyuncheng.github.io/tags/api/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>衍生內建建構器的子類別 subclass</title>
-    <link href="https://kaiyuncheng.github.io/2022/09/10/subclass/"/>
-    <id>https://kaiyuncheng.github.io/2022/09/10/subclass/</id>
-    <published>2022-09-11T02:30:13.000Z</published>
-    <updated>2024-04-13T22:34:03.053Z</updated>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;Subclassing-a-built-in-的兩個障礙&quot;&gt;&lt;a href=&quot;#Subclassing-a-built-in-的兩個障礙&quot; class=&quot;headerlink&quot; title=&quot;Subclassing a built-in 的兩個障礙:&quot;&gt;&lt;/a&gt;Subclassing a built-in 的兩個障礙:&lt;/h3&gt;&lt;h3 id=&quot;Obstacle-1-帶有內部特性的實體&quot;&gt;&lt;a href=&quot;#Obstacle-1-帶有內部特性的實體&quot; class=&quot;headerlink&quot; title=&quot;Obstacle 1 帶有內部特性的實體&quot;&gt;&lt;/a&gt;Obstacle 1 帶有內部特性的實體&lt;/h3&gt;&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;Super&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y&lt;/span&gt;){&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;.&lt;span class=&quot;property&quot;&gt;x&lt;/span&gt; = x;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;.&lt;span class=&quot;property&quot;&gt;y&lt;/span&gt; = y;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;Sub&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;x, y ,z&lt;/span&gt;){&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;title class_&quot;&gt;Super&lt;/span&gt;.&lt;span class=&quot;title function_&quot;&gt;call&lt;/span&gt;(&lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;, x, y);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; &lt;span class=&quot;variable language_&quot;&gt;this&lt;/span&gt;.&lt;span class=&quot;property&quot;&gt;z&lt;/span&gt; = z;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;內建建構器會忽略傳入傳入作為this的子實體&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/categories/Javascript/"/>
-    
-    
-    <category term="Javascript" scheme="https://kaiyuncheng.github.io/tags/Javascript/"/>
-    
-    <category term="subclass" scheme="https://kaiyuncheng.github.io/tags/subclass/"/>
-    
-    <category term="constructor" scheme="https://kaiyuncheng.github.io/tags/constructor/"/>
     
   </entry>
   
