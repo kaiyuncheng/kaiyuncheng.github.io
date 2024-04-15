@@ -122,7 +122,7 @@
     <link href="https://kaiyuncheng.github.io/2023/10/10/leetcodeDay15/"/>
     <id>https://kaiyuncheng.github.io/2023/10/10/leetcodeDay15/</id>
     <published>2023-10-10T07:56:41.000Z</published>
-    <updated>2024-04-14T23:26:51.347Z</updated>
+    <updated>2024-04-15T02:36:35.541Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;動態規劃-Dynamic-programming&quot;&gt;&lt;a href=&quot;#動態規劃-Dynamic-programming&quot; class=&quot;headerlink&quot; title=&quot;動態規劃 Dynamic programming&quot;&gt;&lt;/a&gt;動態規劃 Dynamic programming&lt;/h2&gt;&lt;ul&gt;
@@ -130,7 +130,7 @@
 &lt;/ul&gt;
 &lt;p&gt;動態規劃的基本思想是將「原始問題」分解成多個「子問題」，先求解並「儲存」這些子問題的解到 cache，然後通過這些子問題的解來提供給原問題。這樣做的目的是避免重複計算，從而提高算法的效率。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;與 分而治之 Divide-and-Conquer 很像，但最大的差別是子問題大多類似，並先儲存子問題的解到 cache，之後需要使用到時就不用重複計算&lt;/li&gt;
+&lt;li&gt;Dynamic Programming = Divide-and-Conquer + Memoization (Cache)&lt;br&gt;與 分而治之 Divide-and-Conquer 很像，但最大的差別是子問題大多類似，並先儲存子問題的解到 cache，之後需要使用到時就不用重複計算&lt;/li&gt;
 &lt;/ul&gt;</summary>
     
     
